@@ -67,4 +67,7 @@ Ways others can contribute to the project. This might include:
 - Suggesting enhancements
 - Pull requests, etc.
 
+## License
+
+Apache License Version 2.0, January 2004
 
