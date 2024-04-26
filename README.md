@@ -30,8 +30,8 @@ Some scripts in this project require setting specific paths to function properly
    Example configuration in `LLaMA_main.py`:
 
    ```python
-   new_model_retrained = "/home/nawrin/H_LLM/LLaMA/unlearned_draft2/final_model2"
-   new_model_path = "/home/nawrin/H_LLM/LLaMA/unlearned_draft2/final_model_15epoch"
+   new_model_retrained = "model_directory/final_model"
+   new_model_path = "model_directory/unlearned_llama"
    file_path = "Generated_LLAMA"
    ```
 
@@ -42,8 +42,8 @@ Some scripts in this project require setting specific paths to function properly
    Example configuration in `Tinyllama_main.py`:
 
    ```python
-   new_model_retrained = "/home/nawrin/H_LLM/LLaMA/unlearned_draft2/final_Tinyllama2"
-   new_model_path = "/home/nawrin/H_LLM/LLaMA/unlearned_Tinyllama/unlearned_tiny2"
+   new_model_retrained = "model_directory/final_Tinyllama"
+   new_model_path = "model_directory/unlearned_tinyllma"
    ```
 
 ## Usage
