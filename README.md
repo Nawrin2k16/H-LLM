@@ -1,16 +1,16 @@
-# Project Name
 
-A hierarchical Large Language Model
+# Hierarchical Large Language Model (H-LLM) Exploration
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-- Python 3.x installed 
-- Any other software or tools needed : Four NVIDIA RTX A4500 GPUs: total of approximately 80 GiB of GPU memory (minimum).
+Before starting, make sure you meet the following requirements:
+- **Python 3.x** installed.
+- **Operating System**: Preferably Linux or macOS.
+- **Hardware Requirements**: Minimum of four NVIDIA RTX A4500 GPUs, totaling approximately 80 GiB of GPU memory.
 
 ## Installation
 
-To install the required packages for this project, run the following command:
+Install the required packages using the following command in your terminal:
 
 ```bash
 pip install -r requirements.txt
@@ -20,54 +20,59 @@ pip install -r requirements.txt
 
 ### Setting Paths
 
-Some scripts in this project require setting specific paths to function properly. Here are the path configurations needed:
+To ensure the scripts function correctly, you need to update the file paths in each script according to your system setup:
 
-1. **LLaMA Main Model**:
-   - `new_model_retrained`: Path where the retrained model is saved.
-   - `new_model_path`: Path to save new models during training.
-   - `file_path`: Path where evaluation outputs are saved.
+#### **`llama_main.py`**:
+- `base_model_name`: Identifier for the Hugging Face model.
+- `new_model_path`: Where new, unlearned models are saved.
+- `pretrained_model_name`: Where combined models are saved.
+- `data_name`: Path to the dataset.
+- `file_path`: Where evaluation outputs are logged.
 
-   Example configuration in `LLaMA_main.py`:
+#### **`tinyllama_main.py`**:
+- `base_model_name`: Identifier for the TinyLLaMA model.
+- `new_model_path`: Where unlearned model checkpoints are stored.
+- `new_model_retrained`: Where retrained TinyLLaMA models are saved.
+- `file_path`: Where evaluation outputs are logged.
 
-   ```python
-   new_model_retrained = "model_directory/final_model"
-   new_model_path = "model_directory/unlearned_llama"
-   file_path = "Generated_LLAMA"
-   ```
+#### **`main.py`**:
+- `model_path`: For saving tokenizer and model configurations.
+- `output_path`: Where distilled and pre-trained models are saved.
+- `dataset_name`: Name or path of the dataset file.
 
-2. **TinyLLaMA Model**:
-   - `new_model_retrained`: Path for retrained TinyLLaMA models.
-   - `new_model_path`: Path for the unlearned model checkpoints.
+#### **`Evaluate.py`**:
+- Set `OPENAI_API_KEY` in your environment variables for accessing OpenAI services.
 
-   Example configuration in `Tinyllama_main.py`:
+### Running the Scripts
 
-   ```python
-   new_model_retrained = "model_directory/final_Tinyllama"
-   new_model_path = "model_directory/unlearned_tinyllma"
-   ```
+Use the provided shell script `main_run.sh` to run all models and scripts simultaneously. Ensure this script is correctly set up with paths to the Python files and is executable:
+
+```bash
+chmod +x main_run.sh
+./main_run.sh
+```
+
+This script runs each Python script in parallel, directing their outputs to designated log files and ensuring comprehensive execution tracking.
 
 ## Usage
 
-To run the scripts, follow these instructions:
+Execute the models using the shell script:
 
-- **For LLaMA_main.py**:
-  ```bash
-  python LLaMA_main.py
-  ```
+```bash
+./main_run.sh
+```
 
-- **For Tinyllama_main.py**:
-  ```bash
-  python Tinyllama_main.py
-  ```
+This command initiates parallel processing of the models and logs their output for review.
 
 ## Contributing
 
-Ways others can contribute to the project. This might include:
-- Reporting bugs
-- Suggesting enhancements
-- Pull requests, etc.
+You can contribute to this project in several ways:
+- **Reporting Bugs**: Submit detailed reports of any issues encountered.
+- **Suggesting Enhancements**: Propose ideas for improvements or new features.
+- **Making Pull Requests**: Follow the guidelines to create and submit pull requests effectively.
+
+Please refer to `CONTRIBUTING.md` for detailed guidelines on contributing to the project.
 
 ## License
 
-Apache License Version 2.0, January 2004
-
+This project is licensed under the Apache License Version 2.0, January 2004. Full license text is available in the `LICENSE` file.
