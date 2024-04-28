@@ -6,6 +6,7 @@ from Evaluate import eval_text
 from learn_llama import data_process
 from learn_2024 import new_data_learn
 import torch
+import torch.nn.functional as F
 
 def calculate_entropy(logits):
     """Calculate the entropy of the model's predictions to estimate uncertainty."""
