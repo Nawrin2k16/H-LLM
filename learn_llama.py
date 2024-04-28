@@ -104,7 +104,7 @@ def data_process(data_name, base_model, llama_tokenizer, new_model_path):
     unlearning = MaximizeLossSFTTrainer(
         model=model,  # Make sure to pass the correct model, modified for LoRA
         max_seq_length = 4096,
-        train_dataset=training_data,
+        train_dataset=modified_dataset,
         peft_config=peft_parameters,
         dataset_text_field="text",
         tokenizer=llama_tokenizer,
