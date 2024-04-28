@@ -38,8 +38,11 @@ To ensure the scripts function correctly, you need to update the file paths in e
 #### **`main.py`**:
 - `model_path`: For saving tokenizer and model configurations.
 - `output_path`: Where distilled and pre-trained models are saved.
-- `dataset_name`: Name or path of the dataset file.
+- `data_name`: Name or path of the dataset file.
 
+#### **`learn_2024.py`**:
+- `dataset_name`: Name or path of the dataset file.
+- 
 #### **`Evaluate.py`**:
 - Set `OPENAI_API_KEY` in your environment variables for accessing OpenAI services.
 
