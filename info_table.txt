@@ -1,0 +1,1024 @@
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.861 | 3.855 | 0.001000 | 1074.007 | 1074.007
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 7.039 | 7.037 | 0.001000 | 10.076 | 100.756
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.706 | 4.697 | 0.001000 | 128.752 | 1158.765
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.957 | 3.965 | 0.001000 | 249.136 | 1993.092
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.903 | 3.952 | 0.001000 | 368.639 | 2580.474
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.850 | 3.855 | 0.001000 | 489.486 | 2936.919
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.853 | 3.841 | 0.001000 | 610.010 | 3050.050
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.864 | 3.875 | 0.001000 | 730.914 | 2923.655
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.844 | 3.803 | 0.001000 | 850.620 | 2551.859
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.856 | 3.818 | 0.001000 | 971.723 | 1943.445
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.820 | 3.862 | 0.001000 | 1092.172 | 1092.172
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.994 | 6.997 | 0.001000 | 0.738 | 7.380
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.797 | 4.671 | 0.001000 | 9.861 | 88.747
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.001 | 4.020 | 0.001000 | 19.038 | 152.306
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 4.544 | 4.606 | 0.001000 | 28.230 | 197.611
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.935 | 3.962 | 0.001000 | 37.423 | 224.535
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 4.525 | 4.572 | 0.001000 | 46.605 | 233.025
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.941 | 3.931 | 0.001000 | 55.795 | 223.181
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.929 | 3.868 | 0.001000 | 65.015 | 195.044
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.911 | 3.854 | 0.001000 | 74.220 | 148.441
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.883 | 3.879 | 0.001000 | 83.405 | 83.405
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.149 | 6.149 | 0.001000 | 0.807 | 8.072
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.423 | 4.497 | 0.001000 | 10.048 | 90.436
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.033 | 4.019 | 0.001000 | 19.278 | 154.225
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 4.201 | 4.103 | 0.001000 | 28.506 | 199.543
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.887 | 3.933 | 0.001000 | 37.748 | 226.491
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.868 | 3.821 | 0.001000 | 46.987 | 234.936
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.861 | 3.818 | 0.001000 | 56.238 | 224.951
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.864 | 3.801 | 0.001000 | 65.476 | 196.427
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.892 | 3.830 | 0.001000 | 74.725 | 149.451
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.858 | 3.793 | 0.001000 | 83.964 | 83.964
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.228 | 6.229 | 0.001000 | 0.784 | 7.836
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.583 | 4.551 | 0.001000 | 9.899 | 89.088
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.960 | 3.962 | 0.001000 | 18.991 | 151.926
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.874 | 3.880 | 0.001000 | 28.105 | 196.732
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.866 | 3.834 | 0.001000 | 37.207 | 223.242
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.810 | 3.785 | 0.001000 | 46.321 | 231.603
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.793 | 3.823 | 0.001000 | 55.434 | 221.738
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.853 | 3.803 | 0.001000 | 64.549 | 193.648
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.867 | 3.794 | 0.001000 | 73.672 | 147.344
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.864 | 3.855 | 0.001000 | 82.807 | 82.807
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.194 | 6.197 | 0.001000 | 0.804 | 8.045
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.409 | 4.377 | 0.001000 | 10.046 | 90.410
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.980 | 3.995 | 0.001000 | 19.274 | 154.195
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.943 | 3.850 | 0.001000 | 28.487 | 199.406
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.911 | 3.874 | 0.001000 | 37.714 | 226.284
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.837 | 3.820 | 0.001000 | 46.920 | 234.598
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.823 | 3.810 | 0.001000 | 56.122 | 224.487
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.858 | 3.815 | 0.001000 | 65.340 | 196.020
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 4.045 | 4.020 | 0.001000 | 74.573 | 149.147
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.941 | 3.839 | 0.001000 | 83.795 | 83.795
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.198 | 6.197 | 0.001000 | 0.773 | 7.731
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.542 | 4.616 | 0.001000 | 10.079 | 90.708
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.075 | 3.981 | 0.001000 | 19.276 | 154.206
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.869 | 3.903 | 0.001000 | 28.491 | 199.437
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.987 | 3.880 | 0.001000 | 37.691 | 226.147
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.927 | 3.909 | 0.001000 | 46.910 | 234.549
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.861 | 3.834 | 0.001000 | 56.126 | 224.504
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.814 | 3.845 | 0.001000 | 65.337 | 196.012
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.855 | 3.808 | 0.001000 | 74.563 | 149.126
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.829 | 3.844 | 0.001000 | 83.796 | 83.796
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.210 | 6.210 | 0.001000 | 0.833 | 8.329
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.417 | 4.493 | 0.001000 | 10.137 | 91.234
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.885 | 3.906 | 0.001000 | 19.283 | 154.264
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.891 | 3.819 | 0.001000 | 28.582 | 200.072
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.845 | 3.827 | 0.001000 | 38.017 | 228.099
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.876 | 3.806 | 0.001000 | 47.412 | 237.062
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.903 | 3.885 | 0.001000 | 56.843 | 227.371
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.828 | 3.869 | 0.001000 | 66.105 | 198.316
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.867 | 3.851 | 0.001000 | 75.221 | 150.443
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.805 | 3.797 | 0.001000 | 84.288 | 84.288
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.184 | 6.187 | 0.001000 | 0.817 | 8.171
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.464 | 4.368 | 0.001000 | 10.297 | 92.669
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.950 | 3.963 | 0.001000 | 19.765 | 158.117
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.901 | 3.822 | 0.001000 | 29.292 | 205.043
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.836 | 3.806 | 0.001000 | 38.830 | 232.982
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.888 | 3.824 | 0.001000 | 48.378 | 241.888
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.822 | 3.809 | 0.001000 | 57.842 | 231.369
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.876 | 3.854 | 0.001000 | 67.307 | 201.920
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 4.052 | 4.077 | 0.001000 | 76.757 | 153.514
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.848 | 3.808 | 0.001000 | 86.208 | 86.208
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.195 | 6.198 | 0.001000 | 0.789 | 7.889
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.402 | 4.457 | 0.001000 | 9.970 | 89.733
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.072 | 4.044 | 0.001000 | 19.148 | 153.188
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.952 | 3.940 | 0.001000 | 28.319 | 198.235
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 4.349 | 4.265 | 0.001000 | 37.481 | 224.887
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.873 | 3.888 | 0.001000 | 46.675 | 233.377
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.867 | 3.879 | 0.001000 | 55.876 | 223.502
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.866 | 3.834 | 0.001000 | 65.078 | 195.235
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.967 | 3.869 | 0.001000 | 74.303 | 148.607
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.958 | 3.826 | 0.001000 | 83.736 | 83.736
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.230 | 6.224 | 0.001000 | 0.782 | 7.815
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.545 | 4.640 | 0.001000 | 10.104 | 90.932
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.007 | 4.013 | 0.001000 | 19.398 | 155.182
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.958 | 3.942 | 0.001000 | 28.768 | 201.377
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.878 | 3.901 | 0.001000 | 38.127 | 228.759
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.867 | 3.813 | 0.001000 | 47.510 | 237.550
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.926 | 3.888 | 0.001000 | 56.879 | 227.516
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.886 | 3.846 | 0.001000 | 66.216 | 198.649
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.864 | 3.825 | 0.001000 | 75.655 | 151.310
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.815 | 3.828 | 0.001000 | 85.064 | 85.064
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.227 | 6.226 | 0.001000 | 0.792 | 7.925
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.509 | 4.488 | 0.001000 | 10.158 | 91.418
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.891 | 3.910 | 0.001000 | 19.713 | 157.702
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.876 | 3.986 | 0.001000 | 29.184 | 204.286
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.809 | 3.814 | 0.001000 | 38.526 | 231.156
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.869 | 3.839 | 0.001000 | 47.848 | 239.240
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.849 | 3.824 | 0.001000 | 57.207 | 228.830
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.837 | 3.796 | 0.001000 | 66.485 | 199.456
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.782 | 3.813 | 0.001000 | 75.771 | 151.542
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.802 | 3.811 | 0.001000 | 85.127 | 85.127
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.218 | 6.215 | 0.001000 | 0.807 | 8.072
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.819 | 4.753 | 0.001000 | 10.102 | 90.921
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.989 | 3.965 | 0.001000 | 19.386 | 155.088
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.978 | 3.893 | 0.001000 | 28.670 | 200.690
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.866 | 3.892 | 0.001000 | 37.968 | 227.808
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.851 | 3.813 | 0.001000 | 47.250 | 236.250
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.795 | 3.853 | 0.001000 | 56.547 | 226.186
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.834 | 3.820 | 0.001000 | 65.924 | 197.771
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.817 | 3.843 | 0.001000 | 75.283 | 150.565
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.864 | 3.851 | 0.001000 | 84.715 | 84.715
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.226 | 6.225 | 0.001000 | 0.766 | 7.658
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.703 | 4.660 | 0.001000 | 10.050 | 90.454
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.989 | 3.922 | 0.001000 | 19.303 | 154.426
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.845 | 3.866 | 0.001000 | 28.454 | 199.178
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.842 | 3.849 | 0.001000 | 37.605 | 225.630
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.807 | 3.797 | 0.001000 | 46.766 | 233.830
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.876 | 3.824 | 0.001000 | 55.916 | 223.662
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.855 | 3.800 | 0.001000 | 65.089 | 195.268
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.852 | 3.826 | 0.001000 | 74.346 | 148.693
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.849 | 3.795 | 0.001000 | 83.623 | 83.623
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.203 | 6.200 | 0.001000 | 0.794 | 7.936
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.618 | 4.604 | 0.001000 | 9.988 | 89.890
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.962 | 3.966 | 0.001000 | 19.142 | 153.135
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.900 | 3.870 | 0.001000 | 28.310 | 198.167
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.888 | 3.853 | 0.001000 | 37.495 | 224.970
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.842 | 3.802 | 0.001000 | 46.675 | 233.373
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.848 | 3.802 | 0.001000 | 55.852 | 223.406
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.843 | 3.804 | 0.001000 | 65.090 | 195.269
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.841 | 3.798 | 0.001000 | 74.305 | 148.611
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.862 | 3.860 | 0.001000 | 83.583 | 83.583
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.234 | 6.234 | 0.001000 | 0.774 | 7.741
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.850 | 4.794 | 0.001000 | 10.089 | 90.805
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.026 | 3.967 | 0.001000 | 19.367 | 154.934
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.940 | 3.892 | 0.001000 | 28.631 | 200.417
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.832 | 3.842 | 0.001000 | 37.951 | 227.703
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.821 | 3.815 | 0.001000 | 47.276 | 236.380
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.823 | 3.848 | 0.001000 | 56.552 | 226.208
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.839 | 3.813 | 0.001000 | 65.863 | 197.588
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.823 | 3.810 | 0.001000 | 75.153 | 150.306
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.831 | 3.796 | 0.001000 | 84.456 | 84.456
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.171 | 6.166 | 0.001000 | 0.801 | 8.007
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.550 | 4.434 | 0.001000 | 10.087 | 90.781
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.939 | 3.959 | 0.001000 | 19.346 | 154.769
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.882 | 3.974 | 0.001000 | 28.614 | 200.300
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.927 | 3.915 | 0.001000 | 37.885 | 227.307
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.846 | 3.833 | 0.001000 | 47.149 | 235.744
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.847 | 3.895 | 0.001000 | 56.423 | 225.693
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.870 | 3.818 | 0.001000 | 65.732 | 197.195
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.827 | 3.832 | 0.001000 | 75.059 | 150.119
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.832 | 3.801 | 0.001000 | 84.387 | 84.387
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.211 | 6.213 | 0.001000 | 0.817 | 8.169
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.475 | 4.417 | 0.001000 | 10.169 | 91.518
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.146 | 4.078 | 0.001000 | 19.456 | 155.646
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.903 | 3.900 | 0.001000 | 28.740 | 201.183
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.855 | 3.823 | 0.001000 | 38.036 | 228.216
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.930 | 3.884 | 0.001000 | 47.331 | 236.653
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.811 | 3.792 | 0.001000 | 56.642 | 226.567
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.878 | 3.821 | 0.001000 | 65.970 | 197.910
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.814 | 3.735 | 0.001000 | 75.300 | 150.600
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.827 | 3.829 | 0.001000 | 84.622 | 84.622
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.222 | 6.222 | 0.001000 | 0.782 | 7.820
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.469 | 4.324 | 0.001000 | 10.098 | 90.880
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.016 | 3.993 | 0.001000 | 19.419 | 155.356
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.955 | 3.900 | 0.001000 | 28.714 | 201.000
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.928 | 3.857 | 0.001000 | 38.074 | 228.443
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.848 | 3.823 | 0.001000 | 47.418 | 237.088
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.870 | 3.892 | 0.001000 | 56.739 | 226.955
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.832 | 3.832 | 0.001000 | 66.136 | 198.409
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.817 | 3.814 | 0.001000 | 75.491 | 150.983
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.787 | 3.798 | 0.001000 | 84.779 | 84.779
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.219 | 6.217 | 0.001000 | 0.775 | 7.751
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.533 | 4.479 | 0.001000 | 10.025 | 90.221
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.950 | 3.917 | 0.001000 | 19.254 | 154.034
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.826 | 3.868 | 0.001000 | 28.473 | 199.311
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.879 | 3.787 | 0.001000 | 37.690 | 226.142
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.813 | 3.805 | 0.001000 | 46.927 | 234.633
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.840 | 3.751 | 0.001000 | 56.144 | 224.577
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.879 | 3.842 | 0.001000 | 65.387 | 196.160
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.886 | 3.877 | 0.001000 | 74.627 | 149.253
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.886 | 3.893 | 0.001000 | 83.877 | 83.877
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.250 | 6.250 | 0.001000 | 0.794 | 7.937
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.905 | 4.901 | 0.001000 | 9.999 | 89.988
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.144 | 4.070 | 0.001000 | 19.191 | 153.532
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.992 | 4.018 | 0.001000 | 28.409 | 198.866
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.896 | 3.853 | 0.001000 | 37.621 | 225.724
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.878 | 3.871 | 0.001000 | 46.825 | 234.126
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.851 | 3.867 | 0.001000 | 56.028 | 224.112
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.838 | 3.795 | 0.001000 | 65.250 | 195.751
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.853 | 3.807 | 0.001000 | 74.462 | 148.925
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.853 | 3.819 | 0.001000 | 83.684 | 83.684
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.195 | 6.197 | 0.001000 | 0.808 | 8.078
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.380 | 4.389 | 0.001000 | 9.988 | 89.896
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.904 | 3.887 | 0.001000 | 19.135 | 153.077
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.873 | 3.829 | 0.001000 | 28.308 | 198.159
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.846 | 3.789 | 0.001000 | 37.482 | 224.890
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.840 | 3.840 | 0.001000 | 46.653 | 233.265
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.877 | 3.840 | 0.001000 | 55.827 | 223.309
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.886 | 3.813 | 0.001000 | 65.003 | 195.010
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.832 | 3.814 | 0.001000 | 74.188 | 148.376
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.879 | 3.820 | 0.001000 | 83.375 | 83.375
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.213 | 6.213 | 0.001000 | 0.791 | 7.914
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.476 | 4.424 | 0.001000 | 9.995 | 89.953
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.389 | 4.281 | 0.001000 | 19.191 | 153.531
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 4.198 | 4.187 | 0.001000 | 28.376 | 198.630
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 4.245 | 4.130 | 0.001000 | 37.561 | 225.364
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.925 | 3.961 | 0.001000 | 46.747 | 233.735
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.900 | 3.827 | 0.001000 | 55.931 | 223.722
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.857 | 3.803 | 0.001000 | 65.112 | 195.335
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.854 | 3.825 | 0.001000 | 74.308 | 148.615
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.880 | 3.827 | 0.001000 | 83.515 | 83.515
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.174 | 6.176 | 0.001000 | 0.777 | 7.770
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.538 | 4.495 | 0.001000 | 9.906 | 89.158
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.947 | 4.013 | 0.001000 | 18.985 | 151.883
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.925 | 3.871 | 0.001000 | 28.037 | 196.260
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.864 | 3.850 | 0.001000 | 37.105 | 222.633
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.901 | 3.843 | 0.001000 | 46.174 | 230.870
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.850 | 3.815 | 0.001000 | 55.222 | 220.887
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.860 | 3.852 | 0.001000 | 64.282 | 192.846
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.813 | 3.824 | 0.001000 | 73.349 | 146.697
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.834 | 3.798 | 0.001000 | 82.416 | 82.416
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.204 | 6.204 | 0.001000 | 0.789 | 7.893
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.353 | 4.292 | 0.001000 | 9.922 | 89.300
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.912 | 3.908 | 0.001000 | 19.029 | 152.233
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.858 | 3.788 | 0.001000 | 28.157 | 197.102
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.841 | 3.842 | 0.001000 | 37.293 | 223.757
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.837 | 3.822 | 0.001000 | 46.430 | 232.152
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.882 | 3.813 | 0.001000 | 55.546 | 222.184
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.854 | 3.838 | 0.001000 | 64.635 | 193.904
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.855 | 3.810 | 0.001000 | 73.748 | 147.495
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.850 | 3.835 | 0.001000 | 82.844 | 82.844
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.216 | 6.217 | 0.001000 | 0.804 | 8.041
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.493 | 4.505 | 0.001000 | 10.137 | 91.232
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.307 | 4.276 | 0.001000 | 19.442 | 155.533
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.931 | 3.908 | 0.001000 | 28.763 | 201.343
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 4.085 | 4.025 | 0.001000 | 38.110 | 228.658
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.937 | 3.901 | 0.001000 | 47.456 | 237.279
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.858 | 3.888 | 0.001000 | 56.804 | 227.218
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.950 | 3.941 | 0.001000 | 66.143 | 198.429
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.928 | 3.838 | 0.001000 | 75.481 | 150.961
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.868 | 3.840 | 0.001000 | 84.825 | 84.825
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.225 | 6.227 | 0.001000 | 0.776 | 7.761
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.883 | 4.874 | 0.001000 | 9.825 | 88.426
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.072 | 4.023 | 0.001000 | 18.861 | 150.884
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.947 | 3.907 | 0.001000 | 27.895 | 195.266
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.903 | 3.892 | 0.001000 | 36.941 | 221.646
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.868 | 3.900 | 0.001000 | 45.987 | 229.934
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.880 | 3.852 | 0.001000 | 55.030 | 220.118
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.811 | 3.806 | 0.001000 | 64.073 | 192.218
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.834 | 3.923 | 0.001000 | 73.120 | 146.239
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.797 | 3.855 | 0.001000 | 82.162 | 82.162
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.185 | 6.189 | 0.001000 | 0.792 | 7.924
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.673 | 4.706 | 0.001000 | 9.972 | 89.746
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.245 | 4.147 | 0.001000 | 19.126 | 153.006
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.945 | 3.882 | 0.001000 | 28.282 | 197.973
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.884 | 3.852 | 0.001000 | 37.453 | 224.721
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.841 | 3.821 | 0.001000 | 46.628 | 233.138
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.879 | 3.800 | 0.001000 | 55.822 | 223.289
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.856 | 3.875 | 0.001000 | 65.017 | 195.051
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.800 | 3.822 | 0.001000 | 74.211 | 148.423
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.840 | 3.813 | 0.001000 | 83.402 | 83.402
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.227 | 6.222 | 0.001000 | 0.770 | 7.701
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.389 | 4.330 | 0.001000 | 10.074 | 90.669
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.359 | 4.197 | 0.001000 | 19.262 | 154.098
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.850 | 3.875 | 0.001000 | 28.505 | 199.535
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.887 | 3.841 | 0.001000 | 37.738 | 226.430
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.806 | 3.881 | 0.001000 | 46.948 | 234.738
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.855 | 3.839 | 0.001000 | 56.173 | 224.692
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.837 | 3.838 | 0.001000 | 65.456 | 196.367
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.861 | 3.851 | 0.001000 | 74.726 | 149.453
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.824 | 3.852 | 0.001000 | 83.930 | 83.930
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.190 | 6.192 | 0.001000 | 0.784 | 7.836
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.594 | 4.506 | 0.001000 | 9.893 | 89.037
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.930 | 3.902 | 0.001000 | 18.980 | 151.838
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.861 | 3.844 | 0.001000 | 28.090 | 196.629
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.895 | 3.797 | 0.001000 | 37.197 | 223.183
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.865 | 3.807 | 0.001000 | 46.302 | 231.508
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.842 | 3.836 | 0.001000 | 55.408 | 221.632
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.829 | 3.819 | 0.001000 | 64.523 | 193.570
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.809 | 3.819 | 0.001000 | 73.633 | 147.265
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.836 | 3.819 | 0.001000 | 82.738 | 82.738
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.186 | 6.187 | 0.001000 | 0.780 | 7.800
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.258 | 4.296 | 0.001000 | 10.080 | 90.722
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.003 | 3.872 | 0.001000 | 19.361 | 154.887
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.940 | 3.872 | 0.001000 | 28.657 | 200.602
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.864 | 3.831 | 0.001000 | 37.954 | 227.722
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.865 | 3.832 | 0.001000 | 47.263 | 236.317
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.824 | 3.837 | 0.001000 | 56.567 | 226.269
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.841 | 3.841 | 0.001000 | 65.882 | 197.645
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.883 | 3.826 | 0.001000 | 75.196 | 150.391
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.850 | 3.816 | 0.001000 | 84.509 | 84.509
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.205 | 6.203 | 0.001000 | 0.777 | 7.767
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.716 | 4.577 | 0.001000 | 10.048 | 90.428
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.005 | 4.014 | 0.001000 | 19.261 | 154.086
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.856 | 3.878 | 0.001000 | 28.467 | 199.269
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.863 | 3.917 | 0.001000 | 37.713 | 226.277
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.900 | 3.850 | 0.001000 | 46.955 | 234.775
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.842 | 3.823 | 0.001000 | 56.207 | 224.829
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.817 | 3.818 | 0.001000 | 65.519 | 196.557
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 4.226 | 4.032 | 0.001000 | 74.840 | 149.681
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.822 | 3.816 | 0.001000 | 84.157 | 84.157
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.232 | 6.233 | 0.001000 | 0.790 | 7.895
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.609 | 4.705 | 0.001000 | 10.054 | 90.487
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.975 | 3.945 | 0.001000 | 19.288 | 154.301
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.888 | 3.870 | 0.001000 | 28.529 | 199.702
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.890 | 3.886 | 0.001000 | 37.773 | 226.639
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.871 | 3.853 | 0.001000 | 47.034 | 235.169
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.810 | 3.818 | 0.001000 | 56.312 | 225.246
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.840 | 3.814 | 0.001000 | 65.574 | 196.721
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.877 | 3.813 | 0.001000 | 74.838 | 149.676
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.871 | 3.797 | 0.001000 | 84.101 | 84.101
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.212 | 6.213 | 0.001000 | 0.788 | 7.881
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.501 | 4.519 | 0.001000 | 10.085 | 90.764
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.916 | 3.906 | 0.001000 | 19.258 | 154.062
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.880 | 3.823 | 0.001000 | 28.446 | 199.122
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 4.024 | 4.002 | 0.001000 | 37.684 | 226.103
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.856 | 3.881 | 0.001000 | 46.936 | 234.678
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.965 | 3.965 | 0.001000 | 56.188 | 224.753
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.903 | 3.891 | 0.001000 | 65.432 | 196.295
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.889 | 3.942 | 0.001000 | 74.620 | 149.239
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.827 | 3.802 | 0.001000 | 83.810 | 83.810
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.235 | 6.235 | 0.001000 | 0.826 | 8.263
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.539 | 4.474 | 0.001000 | 10.445 | 94.001
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.972 | 3.987 | 0.001000 | 20.020 | 160.164
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 4.009 | 3.979 | 0.001000 | 29.631 | 207.418
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.915 | 4.016 | 0.001000 | 39.248 | 235.490
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.812 | 3.851 | 0.001000 | 48.869 | 244.343
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.816 | 3.811 | 0.001000 | 58.494 | 233.976
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.854 | 3.801 | 0.001000 | 68.108 | 204.323
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.828 | 3.846 | 0.001000 | 77.735 | 155.470
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.841 | 3.854 | 0.001000 | 87.359 | 87.359
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.217 | 6.223 | 0.001000 | 0.797 | 7.970
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.514 | 4.443 | 0.001000 | 10.248 | 92.230
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.108 | 4.125 | 0.001000 | 19.675 | 157.398
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.972 | 3.948 | 0.001000 | 29.121 | 203.850
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.855 | 3.863 | 0.001000 | 38.550 | 231.299
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.891 | 3.844 | 0.001000 | 47.996 | 239.979
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.843 | 3.842 | 0.001000 | 57.441 | 229.764
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.814 | 3.796 | 0.001000 | 66.885 | 200.654
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.826 | 3.862 | 0.001000 | 76.340 | 152.680
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.813 | 3.817 | 0.001000 | 85.791 | 85.791
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.229 | 6.229 | 0.001000 | 0.791 | 7.914
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.544 | 4.556 | 0.001000 | 10.059 | 90.529
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.944 | 3.965 | 0.001000 | 19.285 | 154.283
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.872 | 3.909 | 0.001000 | 28.520 | 199.643
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.905 | 3.870 | 0.001000 | 37.761 | 226.567
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.870 | 3.857 | 0.001000 | 47.016 | 235.082
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.879 | 3.833 | 0.001000 | 56.260 | 225.040
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.873 | 3.857 | 0.001000 | 65.519 | 196.556
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.847 | 3.781 | 0.001000 | 74.767 | 149.534
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.880 | 3.850 | 0.001000 | 84.014 | 84.014
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.146 | 6.150 | 0.001000 | 0.802 | 8.021
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.289 | 4.265 | 0.001000 | 10.118 | 91.065
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.013 | 3.978 | 0.001000 | 19.425 | 155.399
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.945 | 3.883 | 0.001000 | 28.733 | 201.128
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.880 | 3.889 | 0.001000 | 38.056 | 228.335
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.847 | 3.813 | 0.001000 | 47.387 | 236.933
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.870 | 3.833 | 0.001000 | 56.720 | 226.881
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.821 | 3.820 | 0.001000 | 66.077 | 198.230
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.857 | 3.808 | 0.001000 | 75.439 | 150.878
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.871 | 3.775 | 0.001000 | 84.848 | 84.848
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.225 | 6.221 | 0.001000 | 0.787 | 7.873
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 5.004 | 5.001 | 0.001000 | 10.025 | 90.228
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.219 | 4.116 | 0.001000 | 19.210 | 153.682
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 4.028 | 3.959 | 0.001000 | 28.361 | 198.529
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.918 | 3.904 | 0.001000 | 37.563 | 225.381
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.873 | 3.917 | 0.001000 | 46.706 | 233.532
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.841 | 3.854 | 0.001000 | 55.922 | 223.689
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.918 | 3.828 | 0.001000 | 65.105 | 195.314
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.858 | 3.833 | 0.001000 | 74.276 | 148.551
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.880 | 3.832 | 0.001000 | 83.405 | 83.405
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.230 | 6.231 | 0.001000 | 0.793 | 7.931
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.695 | 4.617 | 0.001000 | 10.224 | 92.013
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.020 | 3.963 | 0.001000 | 19.585 | 156.683
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 4.274 | 4.326 | 0.001000 | 28.985 | 202.896
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.921 | 3.918 | 0.001000 | 38.405 | 230.431
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.984 | 3.944 | 0.001000 | 47.827 | 239.133
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 4.000 | 4.066 | 0.001000 | 57.254 | 229.016
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.979 | 3.995 | 0.001000 | 66.677 | 200.031
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.904 | 3.968 | 0.001000 | 76.108 | 152.216
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.922 | 4.014 | 0.001000 | 85.531 | 85.531
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.230 | 6.231 | 0.001000 | 0.792 | 7.919
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.563 | 4.565 | 0.001000 | 9.978 | 89.801
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.998 | 3.954 | 0.001000 | 19.156 | 153.246
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.920 | 3.903 | 0.001000 | 28.343 | 198.403
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.852 | 3.914 | 0.001000 | 37.529 | 225.173
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.966 | 4.075 | 0.001000 | 46.720 | 233.602
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 4.018 | 4.074 | 0.001000 | 55.921 | 223.684
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 4.018 | 3.983 | 0.001000 | 65.120 | 195.361
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.975 | 3.907 | 0.001000 | 74.357 | 148.713
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.951 | 3.879 | 0.001000 | 83.580 | 83.580
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.219 | 6.218 | 0.001000 | 0.801 | 8.009
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.558 | 4.766 | 0.001000 | 10.091 | 90.816
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.998 | 3.924 | 0.001000 | 19.357 | 154.857
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.938 | 3.946 | 0.001000 | 28.644 | 200.509
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.864 | 3.942 | 0.001000 | 37.932 | 227.593
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 4.364 | 4.299 | 0.001000 | 47.233 | 236.166
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.962 | 4.065 | 0.001000 | 56.533 | 226.132
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.982 | 3.946 | 0.001000 | 65.838 | 197.514
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.928 | 3.949 | 0.001000 | 75.148 | 150.296
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.890 | 3.826 | 0.001000 | 84.450 | 84.450
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.214 | 6.215 | 0.001000 | 0.810 | 8.101
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.602 | 4.537 | 0.001000 | 10.119 | 91.070
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.990 | 4.028 | 0.001000 | 19.427 | 155.414
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.916 | 3.865 | 0.001000 | 28.764 | 201.350
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.847 | 3.765 | 0.001000 | 38.103 | 228.615
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.884 | 3.851 | 0.001000 | 47.454 | 237.271
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.824 | 3.857 | 0.001000 | 56.811 | 227.243
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.822 | 3.851 | 0.001000 | 66.150 | 198.450
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.848 | 3.817 | 0.001000 | 75.499 | 150.999
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.847 | 3.826 | 0.001000 | 84.860 | 84.860
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.223 | 6.225 | 0.001000 | 0.807 | 8.067
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.659 | 4.643 | 0.001000 | 10.175 | 91.579
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.005 | 3.983 | 0.001000 | 19.555 | 156.441
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.954 | 3.918 | 0.001000 | 28.961 | 202.728
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.867 | 3.835 | 0.001000 | 38.376 | 230.258
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.853 | 3.836 | 0.001000 | 47.796 | 238.979
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.855 | 3.867 | 0.001000 | 57.203 | 228.811
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.869 | 3.917 | 0.001000 | 66.633 | 199.898
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.941 | 3.932 | 0.001000 | 76.062 | 152.123
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.883 | 3.878 | 0.001000 | 85.493 | 85.493
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.215 | 6.213 | 0.001000 | 0.763 | 7.632
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.474 | 4.497 | 0.001000 | 9.889 | 88.999
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.008 | 4.010 | 0.001000 | 18.994 | 151.950
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.973 | 3.958 | 0.001000 | 28.104 | 196.729
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.950 | 3.847 | 0.001000 | 37.218 | 223.309
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.841 | 3.839 | 0.001000 | 46.326 | 231.632
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.871 | 3.812 | 0.001000 | 55.432 | 221.729
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.892 | 3.863 | 0.001000 | 64.540 | 193.620
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.878 | 3.872 | 0.001000 | 73.648 | 147.296
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.864 | 3.851 | 0.001000 | 82.771 | 82.771
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.233 | 6.236 | 0.001000 | 0.782 | 7.823
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.540 | 4.519 | 0.001000 | 10.005 | 90.044
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.992 | 3.998 | 0.001000 | 19.141 | 153.132
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.917 | 3.905 | 0.001000 | 28.277 | 197.941
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.874 | 3.838 | 0.001000 | 37.416 | 224.496
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.872 | 3.901 | 0.001000 | 46.557 | 232.786
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.841 | 3.810 | 0.001000 | 55.694 | 222.774
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.893 | 3.854 | 0.001000 | 64.837 | 194.510
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.889 | 3.892 | 0.001000 | 73.970 | 147.940
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.856 | 3.891 | 0.001000 | 83.123 | 83.123
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.216 | 6.219 | 0.001000 | 0.788 | 7.877
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.530 | 4.448 | 0.001000 | 9.981 | 89.833
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.070 | 4.028 | 0.001000 | 19.135 | 153.077
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.932 | 3.866 | 0.001000 | 28.309 | 198.165
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.897 | 3.879 | 0.001000 | 37.498 | 224.991
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.944 | 3.858 | 0.001000 | 46.689 | 233.446
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.788 | 3.833 | 0.001000 | 55.875 | 223.502
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.840 | 3.829 | 0.001000 | 65.058 | 195.174
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.897 | 3.854 | 0.001000 | 74.246 | 148.493
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.891 | 3.819 | 0.001000 | 83.446 | 83.446
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.193 | 6.195 | 0.001000 | 0.792 | 7.925
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.222 | 6.224 | 0.001000 | 0.791 | 7.914
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.711 | 4.641 | 0.001000 | 9.994 | 89.944
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.096 | 4.002 | 0.001000 | 19.180 | 153.444
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.935 | 3.891 | 0.001000 | 28.364 | 198.550
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.919 | 3.822 | 0.001000 | 37.555 | 225.332
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 4.053 | 3.901 | 0.001000 | 46.752 | 233.759
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 4.422 | 4.380 | 0.001000 | 55.947 | 223.788
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.950 | 3.944 | 0.001000 | 65.146 | 195.438
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.903 | 3.828 | 0.001000 | 74.348 | 148.696
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.866 | 3.799 | 0.001000 | 83.547 | 83.547
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.222 | 6.218 | 0.001000 | 0.766 | 7.657
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.341 | 4.326 | 0.001000 | 9.904 | 89.136
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.917 | 3.920 | 0.001000 | 19.009 | 152.072
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.973 | 3.936 | 0.001000 | 28.144 | 197.009
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.858 | 3.914 | 0.001000 | 37.280 | 223.682
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.827 | 3.830 | 0.001000 | 46.446 | 232.232
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.857 | 3.820 | 0.001000 | 55.571 | 222.282
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.932 | 3.895 | 0.001000 | 64.681 | 194.043
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 4.557 | 4.603 | 0.001000 | 73.831 | 147.661
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.882 | 3.856 | 0.001000 | 82.950 | 82.950
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 6.210 | 6.211 | 0.001000 | 0.770 | 7.700
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.605 | 4.559 | 0.001000 | 9.921 | 89.290
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.032 | 3.959 | 0.001000 | 19.065 | 152.520
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.922 | 3.873 | 0.001000 | 28.211 | 197.480
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.872 | 3.855 | 0.001000 | 37.383 | 224.297
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.893 | 3.804 | 0.001000 | 46.555 | 232.775
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.870 | 3.869 | 0.001000 | 55.707 | 222.829
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.837 | 3.804 | 0.001000 | 64.864 | 194.592
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.879 | 3.800 | 0.001000 | 74.022 | 148.044
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.814 | 3.880 | 0.001000 | 83.184 | 83.184
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 4.846 | 4.843 | 0.001000 | 0.824 | 8.236
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 3.940 | 3.968 | 0.001000 | 10.268 | 92.414
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 3.827 | 3.880 | 0.001000 | 19.682 | 157.456
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 3.780 | 3.865 | 0.001000 | 29.107 | 203.746
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 3.791 | 3.873 | 0.001000 | 38.531 | 231.185
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.792 | 3.894 | 0.001000 | 47.966 | 239.829
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.826 | 3.845 | 0.001000 | 57.411 | 229.645
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.840 | 3.887 | 0.001000 | 66.853 | 200.558
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.851 | 3.913 | 0.001000 | 76.305 | 152.611
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.758 | 3.837 | 0.001000 | 85.753 | 85.753
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+0 | 4.837 | 4.837 | 0.000100 | 3.116 | 31.158
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+10 | 4.625 | 4.642 | 0.000100 | 39.285 | 353.568
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+20 | 4.481 | 4.516 | 0.000100 | 75.437 | 603.500
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+30 | 4.288 | 4.307 | 0.000100 | 111.593 | 781.150
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+40 | 4.166 | 4.185 | 0.000100 | 147.807 | 886.843
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+50 | 3.963 | 4.106 | 0.000100 | 184.008 | 920.038
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+60 | 3.957 | 4.006 | 0.000100 | 220.470 | 881.879
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+70 | 3.879 | 3.927 | 0.000100 | 256.973 | 770.918
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+80 | 3.830 | 3.933 | 0.000100 | 293.417 | 586.835
+Epoch | Train Loss | Val Loss | LR | Time | ETA
+90 | 3.831 | 3.881 | 0.000100 | 329.846 | 329.846

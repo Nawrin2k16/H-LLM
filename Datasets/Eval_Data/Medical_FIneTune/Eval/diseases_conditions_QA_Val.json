@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "context": "Another important role of the immune system is to identify and eliminate tumors. This is called immune surveillance. The transformed cells of tumors express antigens that are not found on normal cells. To the immune system, these antigens appear foreign, and their presence causes immune cells to attack the transformed tumor cells. The antigens expressed by tumors have several sources; some are derived from oncogenic viruses like human papillomavirus, which causes cervical cancer, while others are the organism's own proteins that occur at low levels in normal cells but reach high levels in tumor cells. One example is an enzyme called tyrosinase that, when expressed at high levels, transforms certain skin cells (e.g. melanocytes) into tumors called melanomas. A third possible source of tumor antigens are proteins normally important for regulating cell growth and survival, that commonly mutate into cancer inducing molecules called oncogenes.",
+        "question": "What is the virus in humans that causes cervical cancer?",
+        "answers": {
+            "text": [
+                "human papillomavirus",
+                "human papillomavirus",
+                "human papillomavirus"
+            ],
+            "answer_start": [
+                433,
+                433,
+                433
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "context": "Another important role of the immune system is to identify and eliminate tumors. This is called immune surveillance. The transformed cells of tumors express antigens that are not found on normal cells. To the immune system, these antigens appear foreign, and their presence causes immune cells to attack the transformed tumor cells. The antigens expressed by tumors have several sources; some are derived from oncogenic viruses like human papillomavirus, which causes cervical cancer, while others are the organism's own proteins that occur at low levels in normal cells but reach high levels in tumor cells. One example is an enzyme called tyrosinase that, when expressed at high levels, transforms certain skin cells (e.g. melanocytes) into tumors called melanomas. A third possible source of tumor antigens are proteins normally important for regulating cell growth and survival, that commonly mutate into cancer inducing molecules called oncogenes.",
+        "question": "What are cancerous tumors of the skin known as?",
+        "answers": {
+            "text": [
+                "melanomas",
+                "melanomas",
+                "melanomas"
+            ],
+            "answer_start": [
+                757,
+                757,
+                757
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "context": "Established originally by the Massachusetts legislature and soon thereafter named for John Harvard (its first benefactor), Harvard is the United States' oldest institution of higher learning, and the Harvard Corporation (formally, the President and Fellows of Harvard College) is its first chartered corporation. Although never formally affiliated with any denomination, the early College primarily trained Congregationalist and Unitarian clergy. Its curriculum and student body were gradually secularized during the 18th century, and by the 19th century Harvard had emerged as the central cultural establishment among Boston elites. Following the American Civil War, President Charles W. Eliot's long tenure (1869\u20131909) transformed the college and affiliated professional schools into a modern research university; Harvard was a founding member of the Association of American Universities in 1900. James Bryant Conant led the university through the Great Depression and World War II and began to reform the curriculum and liberalize admissions after the war. The undergraduate college became coeducational after its 1977 merger with Radcliffe College.",
+        "question": "What was the name of the leader through the Great Depression and World War II?",
+        "answers": {
+            "text": [
+                "James Bryant Conant",
+                "James Bryant Conant",
+                "James Bryant Conant"
+            ],
+            "answer_start": [
+                899,
+                899,
+                899
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "context": "Past faculty have also included Egyptologist James Henry Breasted, mathematician Alberto Calder\u00f3n, Nobel prize winning economist and classical liberalism defender Friedrich Hayek, meteorologist Ted Fujita, chemists Glenn T. Seaborg, the developer of the actinide concept and Nobel Prize winner Yuan T. Lee, Nobel Prize winning novelist Saul Bellow, political philosopher and author Allan Bloom, cancer researchers Charles Brenton Huggins and Janet Rowley, astronomer Gerard Kuiper, one of the most important figures in the early development of the discipline of linguistics Edward Sapir, and the founder of McKinsey & Co., James O. McKinsey.",
+        "question": "What cancer researchers were also apart of the university's faculty?",
+        "answers": {
+            "text": [
+                "Charles Brenton Huggins and Janet Rowley",
+                "Charles Brenton Huggins and Janet Rowley",
+                "Charles Brenton Huggins and Janet Rowley"
+            ],
+            "answer_start": [
+                414,
+                414,
+                414
+            ]
+        }
+    }
+]

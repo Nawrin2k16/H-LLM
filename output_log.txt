@@ -1,0 +1,51 @@
+The model is extracted from /home/nawrin/H_LLM/scratch/saved_models/bpe_model/spm.model
+Dataset processed 
+The model is extracted from /home/nawrin/H_LLM/scratch/saved_models/bpe_model/spm.model
+Dataset processed 
+The model is extracted from /home/nawrin/H_LLM/scratch/saved_models/bpe_model/spm.model
+Dataset processed 
+model params: 654005067
+model params: 654005067
+Epoch 0 | Train Loss: 10.308 | Val Loss: 10.325 | LR: 0.000100 | Time: 6.398 | Num_Head: 8| batch_size: 4| context_window: 64 |  ETA: 63.980
+Epoch 10 | Train Loss: 8.874 | Val Loss: 9.872 | LR: 0.000100 | Time: 90.547 | Num_Head: 8| batch_size: 4| context_window: 64 |  ETA: 814.921
+Epoch 20 | Train Loss: 7.314 | Val Loss: 9.797 | LR: 0.000100 | Time: 174.391 | Num_Head: 8| batch_size: 4| context_window: 64 |  ETA: 1395.131
+Epoch 30 | Train Loss: 6.308 | Val Loss: 10.138 | LR: 0.000100 | Time: 258.582 | Num_Head: 8| batch_size: 4| context_window: 64 |  ETA: 1810.071
+Epoch 40 | Train Loss: 5.850 | Val Loss: 10.389 | LR: 0.000100 | Time: 342.356 | Num_Head: 8| batch_size: 4| context_window: 64 |  ETA: 2054.135
+Early stopping at epoch 50 due to increase in validation loss.
+Best model saved with validation loss: 9.79681463241577
+Pre-trained Model saved
+model params: 654005067
+Traceback (most recent call last):
+  File "/home/nawrin/H_LLM/scratch/main.py", line 51, in <module>
+    output = generate(model, test_question, 100)  # Specify max_new_tokens as needed
+  File "/home/nawrin/H_LLM/scratch/data.py", line 115, in generate
+    logits, _, _ = model(idx, idx)  # Simplified for illustration
+  File "/home/nawrin/.pyenv/versions/3.10.13/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/nawrin/.pyenv/versions/3.10.13/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/nawrin/H_LLM/scratch/models.py", line 145, in forward
+    x = self.llama_blocks(x)
+  File "/home/nawrin/.pyenv/versions/3.10.13/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/nawrin/.pyenv/versions/3.10.13/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/nawrin/.pyenv/versions/3.10.13/lib/python3.10/site-packages/torch/nn/modules/container.py", line 217, in forward
+    input = module(input)
+  File "/home/nawrin/.pyenv/versions/3.10.13/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/nawrin/.pyenv/versions/3.10.13/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/nawrin/H_LLM/scratch/models.py", line 119, in forward
+    x = self.rms(x) # rms pre-normalization
+  File "/home/nawrin/.pyenv/versions/3.10.13/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/nawrin/.pyenv/versions/3.10.13/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/nawrin/H_LLM/scratch/models.py", line 27, in forward
+    return self.scale[:x.shape[1], :].unsqueeze(0) * raw
+RuntimeError: The size of tensor a (64) must match the size of tensor b (65) at non-singleton dimension 1
+The model is extracted from /home/nawrin/H_LLM/scratch/saved_models/bpe_model/spm.model
+Dataset processed 
+model params: 655053643
+Epoch 0 | Train Loss: 10.288 | Val Loss: 10.319 | LR: 0.000100 | Time: 10.060 | Num_Head: 8| batch_size: 4| context_window: 128 |  ETA: 100.602

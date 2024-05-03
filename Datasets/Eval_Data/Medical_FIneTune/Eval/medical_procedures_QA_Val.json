@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "context": "Deke Slayton, the grounded Mercury astronaut who became Director of Flight Crew Operations for the Gemini and Apollo programs, selected the first Apollo crew in January 1966, with Grissom as Command Pilot, White as Senior Pilot, and rookie Donn F. Eisele as Pilot. But Eisele dislocated his shoulder twice aboard the KC135 weightlessness training aircraft, and had to undergo surgery on January 27. Slayton replaced him with Chaffee. NASA announced the final crew selection for AS-204 on March 21, 1966, with the backup crew consisting of Gemini veterans James McDivitt and David Scott, with rookie Russell L. \"Rusty\" Schweickart. Mercury/Gemini veteran Wally Schirra, Eisele, and rookie Walter Cunningham were announced on September 29 as the prime crew for AS-205.",
+        "question": "What crew did Eisele eventually get relocated to after having surgery and not making the first mission?",
+        "answers": {
+            "text": [
+                "AS-205",
+                "Chaffee",
+                "prime",
+                "prime crew",
+                "AS-205"
+            ],
+            "answer_start": [
+                759,
+                425,
+                744,
+                744,
+                759
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "context": "The city has two universities \u2014 Newcastle University and Northumbria University. Newcastle University has its origins in the School of Medicine and Surgery, established in 1834 and became independent from Durham University on 1 August 1963 to form the University of Newcastle upon Tyne. Newcastle University is now one of the UK's leading international universities. It won the coveted Sunday Times University of the Year award in 2000. Northumbria University has its origins in the Newcastle Polytechnic, established in 1969 and became the University of Northumbria at Newcastle in 1992 as part of the UK-wide process in which polytechnics became new universities. Northumbria University was voted 'Best New University' by The Times Good University Guide 2005 and also won a much coveted company award of the \"Most IT enabled organisation\" (in the UK), by the IT industry magazine Computing.",
+        "question": "Which university has its origins in a school dealing with medicine and surgery?",
+        "answers": {
+            "text": [
+                "Newcastle University",
+                "Newcastle University",
+                "Newcastle University"
+            ],
+            "answer_start": [
+                81,
+                81,
+                81
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "context": "Hospital pharmacies can often be found within the premises of the hospital. Hospital pharmacies usually stock a larger range of medications, including more specialized medications, than would be feasible in the community setting. Most hospital medications are unit-dose, or a single dose of medicine. Hospital pharmacists and trained pharmacy technicians compound sterile products for patients including total parenteral nutrition (TPN), and other medications given intravenously. This is a complex process that requires adequate training of personnel, quality assurance of products, and adequate facilities. Several hospital pharmacies have decided to outsource high risk preparations and some other compounding functions to companies who specialize in compounding. The high cost of medications and drug-related technology, combined with the potential impact of medications and pharmacy services on patient-care outcomes and patient safety, make it imperative that hospital pharmacies perform at the highest level possible.",
+        "question": "In what form are most hospital medications?",
+        "answers": {
+            "text": [
+                "unit-dose, or a single dose of medicine",
+                "unit-dose",
+                "unit-dose, or a single dose of medicine"
+            ],
+            "answer_start": [
+                260,
+                260,
+                260
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "context": "The clinical pharmacist's role involves creating a comprehensive drug therapy plan for patient-specific problems, identifying goals of therapy, and reviewing all prescribed medications prior to dispensing and administration to the patient. The review process often involves an evaluation of the appropriateness of the drug therapy (e.g., drug choice, dose, route, frequency, and duration of therapy) and its efficacy. The pharmacist must also monitor for potential drug interactions, adverse drug reactions, and assess patient drug allergies while designing and initiating a drug therapy plan.",
+        "question": "What is involved in a review of prescribed medications?",
+        "answers": {
+            "text": [
+                "an evaluation of the appropriateness of the drug therapy",
+                "an evaluation of the appropriateness of the drug therapy",
+                "evaluation of the appropriateness of the drug therapy"
+            ],
+            "answer_start": [
+                274,
+                274,
+                277
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "context": "In the United States, there has been a push to legalize importation of medications from Canada and other countries, in order to reduce consumer costs. While in most cases importation of prescription medications violates Food and Drug Administration (FDA) regulations and federal laws, enforcement is generally targeted at international drug suppliers, rather than consumers. There is no known case of any U.S. citizens buying Canadian drugs for personal use with a prescription, who has ever been charged by authorities.",
+        "question": "Who are FDA laws against importing medications aimed at?",
+        "answers": {
+            "text": [
+                "international drug suppliers, rather than consumers",
+                "international drug suppliers",
+                "international drug suppliers"
+            ],
+            "answer_start": [
+                322,
+                322,
+                322
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "context": "Specialty pharmacies supply high cost injectable, oral, infused, or inhaled medications that are used for chronic and complex disease states such as cancer, hepatitis, and rheumatoid arthritis. Unlike a traditional community pharmacy where prescriptions for any common medication can be brought in and filled, specialty pharmacies carry novel medications that need to be properly stored, administered, carefully monitored, and clinically managed. In addition to supplying these drugs, specialty pharmacies also provide lab monitoring, adherence counseling, and assist patients with cost-containment strategies needed to obtain their expensive specialty drugs. It is currently the fastest growing sector of the pharmaceutical industry with 19 of 28 newly FDA approved medications in 2013 being specialty drugs.",
+        "question": "What types of medications do specialty pharmacies stock?",
+        "answers": {
+            "text": [
+                "novel medications that need to be properly stored, administered, carefully monitored, and clinically managed",
+                "novel medications",
+                "novel medications that need to be properly stored, administered, carefully monitored, and clinically managed"
+            ],
+            "answer_start": [
+                337,
+                337,
+                337
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "context": "In some rural areas in the United Kingdom, there are dispensing physicians who are allowed to both prescribe and dispense prescription-only medicines to their patients from within their practices. The law requires that the GP practice be located in a designated rural area and that there is also a specified, minimum distance (currently 1.6 kilometres) between a patient's home and the nearest retail pharmacy. This law also exists in Austria for general physicians if the nearest pharmacy is more than 4 kilometers away, or where none is registered in the city.",
+        "question": "Where are some physicians permitted to prescribe and give out medications within their practices?",
+        "answers": {
+            "text": [
+                "In some rural areas in the United Kingdom",
+                "rural areas in the United Kingdom",
+                "prescribe and dispense prescription-only medicines to their patients from within their practices"
+            ],
+            "answer_start": [
+                0,
+                8,
+                99
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "context": "In some rural areas in the United Kingdom, there are dispensing physicians who are allowed to both prescribe and dispense prescription-only medicines to their patients from within their practices. The law requires that the GP practice be located in a designated rural area and that there is also a specified, minimum distance (currently 1.6 kilometres) between a patient's home and the nearest retail pharmacy. This law also exists in Austria for general physicians if the nearest pharmacy is more than 4 kilometers away, or where none is registered in the city.",
+        "question": "What is the minimum distance between a patient's home and the nearest pharmacy that allows a physician to give out medication?",
+        "answers": {
+            "text": [
+                "1.6 kilometres",
+                "1.6 kilometres",
+                "1.6 kilometres"
+            ],
+            "answer_start": [
+                337,
+                337,
+                337
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "context": "In the coming decades, pharmacists are expected to become more integral within the health care system. Rather than simply dispensing medication, pharmacists are increasingly expected to be compensated for their patient care skills. In particular, Medication Therapy Management (MTM) includes the clinical services that pharmacists can provide for their patients. Such services include the thorough analysis of all medication (prescription, non-prescription, and herbals) currently being taken by an individual. The result is a reconciliation of medication and patient education resulting in increased patient health outcomes and decreased costs to the health care system.",
+        "question": "What is included in Medication Therapy Management?",
+        "answers": {
+            "text": [
+                "clinical services that pharmacists can provide for their patients",
+                "clinical services that pharmacists can provide for their patients",
+                "the clinical services that pharmacists can provide for their patients"
+            ],
+            "answer_start": [
+                296,
+                296,
+                292
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "context": "In the coming decades, pharmacists are expected to become more integral within the health care system. Rather than simply dispensing medication, pharmacists are increasingly expected to be compensated for their patient care skills. In particular, Medication Therapy Management (MTM) includes the clinical services that pharmacists can provide for their patients. Such services include the thorough analysis of all medication (prescription, non-prescription, and herbals) currently being taken by an individual. The result is a reconciliation of medication and patient education resulting in increased patient health outcomes and decreased costs to the health care system.",
+        "question": "What are outcomes expected with Medication Therapy Management?",
+        "answers": {
+            "text": [
+                "a reconciliation of medication and patient education resulting in increased patient health outcomes and decreased costs to the health care system",
+                "increased patient health outcomes and decreased costs",
+                "a reconciliation of medication and patient education resulting in increased patient health outcomes and decreased costs to the health care system"
+            ],
+            "answer_start": [
+                525,
+                591,
+                525
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "context": "Long-term active memory is acquired following infection by activation of B and T cells. Active immunity can also be generated artificially, through vaccination. The principle behind vaccination (also called immunization) is to introduce an antigen from a pathogen in order to stimulate the immune system and develop specific immunity against that particular pathogen without causing disease associated with that organism. This deliberate induction of an immune response is successful because it exploits the natural specificity of the immune system, as well as its inducibility. With infectious disease remaining one of the leading causes of death in the human population, vaccination represents the most effective manipulation of the immune system mankind has developed.",
+        "question": "What is the process of vaccination also known as?",
+        "answers": {
+            "text": [
+                "immunization",
+                "immunization",
+                "immunization"
+            ],
+            "answer_start": [
+                207,
+                207,
+                207
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "context": "Long-term active memory is acquired following infection by activation of B and T cells. Active immunity can also be generated artificially, through vaccination. The principle behind vaccination (also called immunization) is to introduce an antigen from a pathogen in order to stimulate the immune system and develop specific immunity against that particular pathogen without causing disease associated with that organism. This deliberate induction of an immune response is successful because it exploits the natural specificity of the immune system, as well as its inducibility. With infectious disease remaining one of the leading causes of death in the human population, vaccination represents the most effective manipulation of the immune system mankind has developed.",
+        "question": "In the process of vaccination, what is introduced in order to develop a specific immunity?",
+        "answers": {
+            "text": [
+                "an antigen from a pathogen",
+                "antigen",
+                "antigen from a pathogen"
+            ],
+            "answer_start": [
+                237,
+                240,
+                240
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "context": "Long-term active memory is acquired following infection by activation of B and T cells. Active immunity can also be generated artificially, through vaccination. The principle behind vaccination (also called immunization) is to introduce an antigen from a pathogen in order to stimulate the immune system and develop specific immunity against that particular pathogen without causing disease associated with that organism. This deliberate induction of an immune response is successful because it exploits the natural specificity of the immune system, as well as its inducibility. With infectious disease remaining one of the leading causes of death in the human population, vaccination represents the most effective manipulation of the immune system mankind has developed.",
+        "question": "Vaccination exploits what feature of the human immune system in order to be successful?",
+        "answers": {
+            "text": [
+                "natural specificity of the immune system",
+                "natural specificity",
+                "the natural specificity"
+            ],
+            "answer_start": [
+                508,
+                508,
+                504
+            ]
+        }
+    }
+]

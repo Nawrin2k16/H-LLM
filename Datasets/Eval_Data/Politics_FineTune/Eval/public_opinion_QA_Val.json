@@ -1,0 +1,1619 @@
+[
+    {
+        "id": 1,
+        "context": "Tesla was generally antagonistic towards theories about the conversion of matter into energy.:247 He was also critical of Einstein's theory of relativity, saying:",
+        "question": "What was Tesla's attitude toward the idea that matter could be turned into energy?",
+        "answers": {
+            "text": [
+                "antagonistic",
+                "antagonistic",
+                "antagonistic"
+            ],
+            "answer_start": [
+                20,
+                20,
+                20
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "context": "Misconduct by teachers, especially sexual misconduct, has been getting increased scrutiny from the media and the courts. A study by the American Association of University Women reported that 9.6% of students in the United States claim to have received unwanted sexual attention from an adult associated with education; be they a volunteer, bus driver, teacher, administrator or other adult; sometime during their educational career.",
+        "question": "Who conducted this survey?",
+        "answers": {
+            "text": [
+                "American Association of University Women",
+                "American Association of University Women",
+                "American Association of University Women"
+            ],
+            "answer_start": [
+                136,
+                136,
+                136
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "context": "Since the 1980s, Lutheran Church denominations have repudiated Martin Luther's statements against the Jews and have rejected the use of them to incite hatred against Lutherans. Strommen et al.'s 1970 survey of 4,745 North American Lutherans aged 15\u201365 found that, compared to the other minority groups under consideration, Lutherans were the least prejudiced toward Jews. Nevertheless, Professor Richard (Dick) Geary, former Professor of Modern History at the University of Nottingham, England, and the author of Hitler and Nazism (Routledge 1993), wrote in the journal History Today an article on who voted for the Nazis in elections held from 1928-1933, where he claimed that from his research he found that the Nazis gained disproportionately more votes from Protestant than Catholic areas of Germany.",
+        "question": "What did a survey of North American Lutherans find that Lutherans felt about Jews compared to other minority groups?",
+        "answers": {
+            "text": [
+                "least prejudiced",
+                "least prejudiced",
+                "least prejudiced toward Jews"
+            ],
+            "answer_start": [
+                342,
+                342,
+                342
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "context": "Concentrated O\n2 will allow combustion to proceed rapidly and energetically. Steel pipes and storage vessels used to store and transmit both gaseous and liquid oxygen will act as a fuel; and therefore the design and manufacture of O\n2 systems requires special training to ensure that ignition sources are minimized. The fire that killed the Apollo 1 crew in a launch pad test spread so rapidly because the capsule was pressurized with pure O\n2 but at slightly more than atmospheric pressure, instead of the 1\u20443 normal pressure that would be used in a mission.[k]",
+        "question": "What chemical element was the cause of the Apollo 1 disastrous outcome?",
+        "answers": {
+            "text": [
+                "pure O"
+            ],
+            "answer_start": [
+                435
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "context": "Free oxygen also occurs in solution in the world's water bodies. The increased solubility of O\n2 at lower temperatures (see Physical properties) has important implications for ocean life, as polar oceans support a much higher density of life due to their higher oxygen content. Water polluted with plant nutrients such as nitrates or phosphates may stimulate growth of algae by a process called eutrophication and the decay of these organisms and other biomaterials may reduce amounts of O\n2 in eutrophic water bodies. Scientists assess this aspect of water quality by measuring the water's biochemical oxygen demand, or the amount of O\n2 needed to restore it to a normal concentration.",
+        "question": "Pollution of water by nitrates and phosphates will encourage the growth of what?",
+        "answers": {
+            "text": [
+                "algae",
+                "algae",
+                "algae",
+                "algae",
+                "algae"
+            ],
+            "answer_start": [
+                369,
+                369,
+                369,
+                369,
+                369
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "context": "The Apollo program, also known as Project Apollo, was the third United States human spaceflight program carried out by the National Aeronautics and Space Administration (NASA), which accomplished landing the first humans on the Moon from 1969 to 1972. First conceived during Dwight D. Eisenhower's administration as a three-man spacecraft to follow the one-man Project Mercury which put the first Americans in space, Apollo was later dedicated to President John F. Kennedy's national goal of \"landing a man on the Moon and returning him safely to the Earth\" by the end of the 1960s, which he proposed in a May 25, 1961, address to Congress. Project Mercury was followed by the two-man Project Gemini (1962\u201366). The first manned flight of Apollo was in 1968.",
+        "question": "What year did the first manned Apollo flight occur?",
+        "answers": {
+            "text": [
+                "1968",
+                "1969",
+                "1962",
+                "1968",
+                "1969"
+            ],
+            "answer_start": [
+                752,
+                238,
+                701,
+                752,
+                238
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "context": "Apollo ran from 1961 to 1972, and was supported by the two-man Gemini program which ran concurrently with it from 1962 to 1966. Gemini missions developed some of the space travel techniques that were necessary for the success of the Apollo missions. Apollo used Saturn family rockets as launch vehicles. Apollo/Saturn vehicles were also used for an Apollo Applications Program, which consisted of Skylab, a space station that supported three manned missions in 1973\u201374, and the Apollo\u2013Soyuz Test Project, a joint Earth orbit mission with the Soviet Union in 1975.",
+        "question": "How long did Project Apollo run?",
+        "answers": {
+            "text": [
+                "1961 to 1972",
+                "1961 to 1972",
+                "1961 to 1972",
+                "1961 to 1972",
+                "Apollo ran from 1961 to 1972"
+            ],
+            "answer_start": [
+                16,
+                16,
+                16,
+                16,
+                0
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "context": "Apollo ran from 1961 to 1972, and was supported by the two-man Gemini program which ran concurrently with it from 1962 to 1966. Gemini missions developed some of the space travel techniques that were necessary for the success of the Apollo missions. Apollo used Saturn family rockets as launch vehicles. Apollo/Saturn vehicles were also used for an Apollo Applications Program, which consisted of Skylab, a space station that supported three manned missions in 1973\u201374, and the Apollo\u2013Soyuz Test Project, a joint Earth orbit mission with the Soviet Union in 1975.",
+        "question": "What program helped develop space travel techniques that Project Apollo used?",
+        "answers": {
+            "text": [
+                "Gemini program",
+                "Gemini",
+                "Gemini",
+                "Gemini",
+                "Gemini program"
+            ],
+            "answer_start": [
+                63,
+                63,
+                128,
+                63,
+                63
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "context": "The Apollo program succeeded in achieving its goal of manned lunar landing, despite the major setback of a 1967 Apollo 1 cabin fire that killed the entire crew during a prelaunch test. After the first landing, sufficient flight hardware remained for nine follow-on landings with a plan for extended lunar geological and astrophysical exploration. Budget cuts forced the cancellation of three of these. Five of the remaining six missions achieved successful landings, but the Apollo 13 landing was prevented by an oxygen tank explosion in transit to the Moon, which disabled the command spacecraft's propulsion and life support. The crew returned to Earth safely by using the Lunar Module as a \"lifeboat\" for these functions.",
+        "question": "In what year did the Apollo 1 cabin fire occur?",
+        "answers": {
+            "text": [
+                "1967",
+                "1967",
+                "1967",
+                "1967",
+                "1967"
+            ],
+            "answer_start": [
+                107,
+                107,
+                107,
+                107,
+                107
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "context": "The Apollo program succeeded in achieving its goal of manned lunar landing, despite the major setback of a 1967 Apollo 1 cabin fire that killed the entire crew during a prelaunch test. After the first landing, sufficient flight hardware remained for nine follow-on landings with a plan for extended lunar geological and astrophysical exploration. Budget cuts forced the cancellation of three of these. Five of the remaining six missions achieved successful landings, but the Apollo 13 landing was prevented by an oxygen tank explosion in transit to the Moon, which disabled the command spacecraft's propulsion and life support. The crew returned to Earth safely by using the Lunar Module as a \"lifeboat\" for these functions.",
+        "question": "What type of launch was happening during the Apollo 1 incident?",
+        "answers": {
+            "text": [
+                "prelaunch test",
+                "prelaunch",
+                "prelaunch test",
+                "prelaunch test"
+            ],
+            "answer_start": [
+                169,
+                169,
+                169,
+                169
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "context": "The Apollo program succeeded in achieving its goal of manned lunar landing, despite the major setback of a 1967 Apollo 1 cabin fire that killed the entire crew during a prelaunch test. After the first landing, sufficient flight hardware remained for nine follow-on landings with a plan for extended lunar geological and astrophysical exploration. Budget cuts forced the cancellation of three of these. Five of the remaining six missions achieved successful landings, but the Apollo 13 landing was prevented by an oxygen tank explosion in transit to the Moon, which disabled the command spacecraft's propulsion and life support. The crew returned to Earth safely by using the Lunar Module as a \"lifeboat\" for these functions.",
+        "question": "What happened to Apollo 13?",
+        "answers": {
+            "text": [
+                "oxygen tank explosion in transit to the Moon",
+                "disabled the command spacecraft's propulsion and life support",
+                "oxygen tank explosion in transit to the Moon",
+                "oxygen tank explosion",
+                "oxygen tank explosion in transit"
+            ],
+            "answer_start": [
+                513,
+                565,
+                513,
+                513,
+                513
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "context": "Apollo set several major human spaceflight milestones. It stands alone in sending manned missions beyond low Earth orbit. Apollo 8 was the first manned spacecraft to orbit another celestial body, while the final Apollo 17 mission marked the sixth Moon landing and the ninth manned mission beyond low Earth orbit. The program returned 842 pounds (382 kg) of lunar rocks and soil to Earth, greatly contributing to the understanding of the Moon's composition and geological history. The program laid the foundation for NASA's current human spaceflight capability, and funded construction of its Johnson Space Center and Kennedy Space Center. Apollo also spurred advances in many areas of technology incidental to rocketry and manned spaceflight, including avionics, telecommunications, and computers.",
+        "question": "What Apollo mission was the sixth moon landing?",
+        "answers": {
+            "text": [
+                "Apollo 17",
+                "Apollo 17",
+                "Apollo 17",
+                "Apollo 17",
+                "Apollo 17"
+            ],
+            "answer_start": [
+                212,
+                212,
+                212,
+                212,
+                212
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "context": "Apollo set several major human spaceflight milestones. It stands alone in sending manned missions beyond low Earth orbit. Apollo 8 was the first manned spacecraft to orbit another celestial body, while the final Apollo 17 mission marked the sixth Moon landing and the ninth manned mission beyond low Earth orbit. The program returned 842 pounds (382 kg) of lunar rocks and soil to Earth, greatly contributing to the understanding of the Moon's composition and geological history. The program laid the foundation for NASA's current human spaceflight capability, and funded construction of its Johnson Space Center and Kennedy Space Center. Apollo also spurred advances in many areas of technology incidental to rocketry and manned spaceflight, including avionics, telecommunications, and computers.",
+        "question": "What other areas did the Apollo missions help spur advancements in?",
+        "answers": {
+            "text": [
+                "avionics, telecommunications, and computers",
+                "NASA's current human spaceflight capability, and funded construction of its Johnson Space Center and Kennedy Space Center",
+                "avionics, telecommunications, and computers",
+                "avionics, telecommunications, and computers.",
+                "rocketry and manned spaceflight, including avionics, telecommunications, and computers"
+            ],
+            "answer_start": [
+                753,
+                516,
+                753,
+                753,
+                710
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "context": "The Apollo program was conceived during the Eisenhower administration in early 1960, as a follow-up to Project Mercury. While the Mercury capsule could only support one astronaut on a limited Earth orbital mission, Apollo would carry three astronauts. Possible missions included ferrying crews to a space station, circumlunar flights, and eventual manned lunar landings. The program was named after the Greek god of light, music, and the sun by NASA manager Abe Silverstein, who later said that \"I was naming the spacecraft like I'd name my baby.\" Silverstein chose the name at home one evening, early in 1960, because he felt \"Apollo riding his chariot across the Sun was appropriate to the grand scale of the proposed program.\"",
+        "question": "How many people could Apollo be projected to hold?",
+        "answers": {
+            "text": [
+                "three",
+                "three",
+                "three",
+                "three astronauts"
+            ],
+            "answer_start": [
+                234,
+                234,
+                234,
+                234
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "context": "The Apollo program was conceived during the Eisenhower administration in early 1960, as a follow-up to Project Mercury. While the Mercury capsule could only support one astronaut on a limited Earth orbital mission, Apollo would carry three astronauts. Possible missions included ferrying crews to a space station, circumlunar flights, and eventual manned lunar landings. The program was named after the Greek god of light, music, and the sun by NASA manager Abe Silverstein, who later said that \"I was naming the spacecraft like I'd name my baby.\" Silverstein chose the name at home one evening, early in 1960, because he felt \"Apollo riding his chariot across the Sun was appropriate to the grand scale of the proposed program.\"",
+        "question": "Who named the Apollo missions?",
+        "answers": {
+            "text": [
+                "Abe Silverstein",
+                "Abe Silverstein",
+                "Abe Silverstein",
+                "Abe Silverstein",
+                "NASA manager Abe Silverstein"
+            ],
+            "answer_start": [
+                458,
+                458,
+                458,
+                458,
+                445
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "context": "The Apollo program was conceived during the Eisenhower administration in early 1960, as a follow-up to Project Mercury. While the Mercury capsule could only support one astronaut on a limited Earth orbital mission, Apollo would carry three astronauts. Possible missions included ferrying crews to a space station, circumlunar flights, and eventual manned lunar landings. The program was named after the Greek god of light, music, and the sun by NASA manager Abe Silverstein, who later said that \"I was naming the spacecraft like I'd name my baby.\" Silverstein chose the name at home one evening, early in 1960, because he felt \"Apollo riding his chariot across the Sun was appropriate to the grand scale of the proposed program.\"",
+        "question": "What was the eventual final goal of the Apollo projects?",
+        "answers": {
+            "text": [
+                "manned lunar landings",
+                "manned lunar landings",
+                "lunar landings",
+                "ferrying crews to a space station, circumlunar flights, and eventual manned lunar landings"
+            ],
+            "answer_start": [
+                348,
+                348,
+                355,
+                279
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "context": "The Apollo program was conceived during the Eisenhower administration in early 1960, as a follow-up to Project Mercury. While the Mercury capsule could only support one astronaut on a limited Earth orbital mission, Apollo would carry three astronauts. Possible missions included ferrying crews to a space station, circumlunar flights, and eventual manned lunar landings. The program was named after the Greek god of light, music, and the sun by NASA manager Abe Silverstein, who later said that \"I was naming the spacecraft like I'd name my baby.\" Silverstein chose the name at home one evening, early in 1960, because he felt \"Apollo riding his chariot across the Sun was appropriate to the grand scale of the proposed program.\"",
+        "question": "When was the Apollo project conceived? ",
+        "answers": {
+            "text": [
+                "early 1960",
+                "1960",
+                "1960",
+                "1960",
+                "early 1960"
+            ],
+            "answer_start": [
+                73,
+                605,
+                605,
+                79,
+                73
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "context": "In July 1960, NASA Deputy Administrator Hugh L. Dryden announced the Apollo program to industry representatives at a series of Space Task Group conferences. Preliminary specifications were laid out for a spacecraft with a mission module cabin separate from the command module (piloting and re-entry cabin), and a propulsion and equipment module. On August 30, a feasibility study competition was announced, and on October 25, three study contracts were awarded to General Dynamics/Convair, General Electric, and the Glenn L. Martin Company. Meanwhile, NASA performed its own in-house spacecraft design studies led by Maxime Faget, to serve as a gauge to judge and monitor the three industry designs.",
+        "question": "In what year was the Apollo program announced?",
+        "answers": {
+            "text": [
+                "1960",
+                "1960",
+                "1960",
+                "1960",
+                "July 1960"
+            ],
+            "answer_start": [
+                8,
+                8,
+                8,
+                8,
+                3
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "context": "Based on his industry experience on Air Force missile projects, Mueller realized some skilled managers could be found among high-ranking officers in the United States Air Force, so he got Webb's permission to recruit General Samuel C. Phillips, who gained a reputation for his effective management of the Minuteman program, as OMSF program controller. Phillips' superior officer Bernard A. Schriever agreed to loan Phillips to NASA, along with a staff of officers under him, on the condition that Phillips be made Apollo Program Director. Mueller agreed, and Phillips managed Apollo from January 1964, until it achieved the first manned landing in July 1969, after which he returned to Air Force duty.",
+        "question": "How long did Phillips manage the Apollo missions?",
+        "answers": {
+            "text": [
+                "January 1964, until it achieved the first manned landing in July 1969",
+                "1964, until it achieved the first manned landing in July 1969,",
+                "from January 1964, until it achieved the first manned landing in July 1969",
+                "January 1964, until it achieved the first manned landing in July 1969",
+                "January 1964, until it achieved the first manned landing in July 1969,"
+            ],
+            "answer_start": [
+                588,
+                596,
+                583,
+                588,
+                588
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "context": "The LOR method had the advantage of allowing the lander spacecraft to be used as a \"lifeboat\" in the event of a failure of the command ship. Some documents prove this theory was discussed before and after the method was chosen. A 1964 MSC study concluded, \"The LM [as lifeboat] ... was finally dropped, because no single reasonable CSM failure could be identified that would prohibit use of the SPS.\" Ironically, just such a failure happened on Apollo 13 when an oxygen tank explosion left the command ship without electrical power. The Lunar Module provided propulsion, electrical power and life support to get the crew home safely.",
+        "question": "What Apollo mission was this LOR method used and needed?",
+        "answers": {
+            "text": [
+                "Apollo 13",
+                "13",
+                "Apollo 13",
+                "Apollo 13",
+                "Apollo 13"
+            ],
+            "answer_start": [
+                445,
+                452,
+                445,
+                445,
+                445
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "context": "The LOR method had the advantage of allowing the lander spacecraft to be used as a \"lifeboat\" in the event of a failure of the command ship. Some documents prove this theory was discussed before and after the method was chosen. A 1964 MSC study concluded, \"The LM [as lifeboat] ... was finally dropped, because no single reasonable CSM failure could be identified that would prohibit use of the SPS.\" Ironically, just such a failure happened on Apollo 13 when an oxygen tank explosion left the command ship without electrical power. The Lunar Module provided propulsion, electrical power and life support to get the crew home safely.",
+        "question": "What did the Lunar Module provide to help get the Apollo 13 home safely?",
+        "answers": {
+            "text": [
+                "propulsion, electrical power and life support",
+                "propulsion",
+                "propulsion",
+                "propulsion, electrical power and life support",
+                "propulsion, electrical power and life support"
+            ],
+            "answer_start": [
+                559,
+                559,
+                559,
+                559,
+                559
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "context": "Maxime Faget's preliminary Apollo design employed a cone-shaped command module, supported by one of several service modules providing propulsion and electrical power, sized appropriately for the space station, cislunar, and lunar landing missions. Once Kennedy's Moon landing goal became official, detailed design began of a Command/Service Module (CSM) in which the crew would spend the entire direct-ascent mission and lift off from the lunar surface for the return trip, after being soft-landed by a larger landing propulsion module. The final choice of lunar orbit rendezvous changed the CSM's role to the translunar ferry used to transport the crew, along with a new spacecraft, the Lunar Excursion Module (LEM, later shortened to Lunar Module, LM) which would take two men to the lunar surface and return them to the CSM.",
+        "question": "What was the shape that Faget designed for the Apollo command module?",
+        "answers": {
+            "text": [
+                "cone-shaped",
+                "cone",
+                "cone",
+                "cone-shaped",
+                "cone"
+            ],
+            "answer_start": [
+                52,
+                52,
+                52,
+                52,
+                52
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "context": "Before the Apollo program began, Wernher von Braun and his team of rocket engineers had started work on plans for very large launch vehicles, the Saturn series, and the even larger Nova series. In the midst of these plans, von Braun was transferred from the Army to NASA, and made Director of the Marshall Space Flight Center. The initial direct ascent plan to send the three-man Apollo Command/Service Module directly to the lunar surface, on top of a large descent rocket stage, would require a Nova-class launcher, with a lunar payload capability of over 180,000 pounds (82,000 kg). The June 11, 1962, decision to use lunar orbit rendezvous enabled the Saturn V to replace the Nova, and the MSFC proceeded to develop the Saturn rocket family for Apollo.",
+        "question": "Who had worked on the Saturn series even before the Apollo program began officially?",
+        "answers": {
+            "text": [
+                "Wernher von Braun",
+                "Wernher von Braun",
+                "Wernher von Braun",
+                "Wernher von Braun",
+                "Wernher von Braun"
+            ],
+            "answer_start": [
+                33,
+                33,
+                33,
+                33,
+                33
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "context": "The Apollo astronauts were chosen from the Project Mercury and Gemini veterans, plus from two later astronaut groups. All missions were commanded by Gemini or Mercury veterans. Crews on all development flights (except the Earth orbit CSM development flights) through the first two landings on Apollo 11 and Apollo 12, included at least two (sometimes three) Gemini veterans. Dr. Harrison Schmitt, a geologist, was the first NASA scientist astronaut to fly in space, and landed on the Moon on the last mission, Apollo 17. Schmitt participated in the lunar geology training of all of the Apollo landing crews.",
+        "question": "From what project groups were the Apollo astronauts selected?",
+        "answers": {
+            "text": [
+                "Mercury and Gemini",
+                "Mercury",
+                "Mercury and Gemini",
+                "Project Mercury and Gemini",
+                "Mercury and Gemini"
+            ],
+            "answer_start": [
+                51,
+                51,
+                51,
+                43,
+                51
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "context": "The Apollo astronauts were chosen from the Project Mercury and Gemini veterans, plus from two later astronaut groups. All missions were commanded by Gemini or Mercury veterans. Crews on all development flights (except the Earth orbit CSM development flights) through the first two landings on Apollo 11 and Apollo 12, included at least two (sometimes three) Gemini veterans. Dr. Harrison Schmitt, a geologist, was the first NASA scientist astronaut to fly in space, and landed on the Moon on the last mission, Apollo 17. Schmitt participated in the lunar geology training of all of the Apollo landing crews.",
+        "question": "How many Apollo missions were manned by the previous Mercury and Gemini veterans?",
+        "answers": {
+            "text": [
+                "All missions",
+                "17",
+                "All missions",
+                "All"
+            ],
+            "answer_start": [
+                118,
+                517,
+                118,
+                118
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "context": "The Apollo astronauts were chosen from the Project Mercury and Gemini veterans, plus from two later astronaut groups. All missions were commanded by Gemini or Mercury veterans. Crews on all development flights (except the Earth orbit CSM development flights) through the first two landings on Apollo 11 and Apollo 12, included at least two (sometimes three) Gemini veterans. Dr. Harrison Schmitt, a geologist, was the first NASA scientist astronaut to fly in space, and landed on the Moon on the last mission, Apollo 17. Schmitt participated in the lunar geology training of all of the Apollo landing crews.",
+        "question": "Apollo 17 was significant for what reason?",
+        "answers": {
+            "text": [
+                "last mission",
+                "last mission",
+                "first NASA scientist astronaut to fly in space",
+                "last mission,"
+            ],
+            "answer_start": [
+                496,
+                496,
+                418,
+                496
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "context": "NASA awarded all 32 of these astronauts its highest honor, the Distinguished Service Medal, given for \"distinguished service, ability, or courage\", and personal \"contribution representing substantial progress to the NASA mission\". The medals were awarded posthumously to Grissom, White, and Chaffee in 1969, then to the crews of all missions from Apollo 8 onward. The crew that flew the first Earth orbital test mission Apollo 7, Walter M. Schirra, Donn Eisele, and Walter Cunningham, were awarded the lesser NASA Exceptional Service Medal, because of discipline problems with the Flight Director's orders during their flight. The NASA Administrator in October, 2008, decided to award them the Distinguished Service Medals, by this time posthumously to Schirra and Eisele.",
+        "question": "What happened during the Apollo 7 test mission to elicit them a lesser version of the DSM?",
+        "answers": {
+            "text": [
+                "discipline problems",
+                "discipline problems",
+                "discipline problems",
+                "discipline problems"
+            ],
+            "answer_start": [
+                552,
+                552,
+                552,
+                552
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "context": "After an unmanned LM test flight AS-206, a crew would fly the first Block II CSM and LM in a dual mission known as AS-207/208, or AS-278 (each spacecraft would be launched on a separate Saturn IB.) The Block II crew positions were titled Commander (CDR) Command Module Pilot (CMP) and Lunar Module Pilot (LMP). The astronauts would begin wearing a new Apollo spacesuit, designed to accommodate lunar extravehicular activity (EVA). The traditional visor helmet was replaced with a clear \"fishbowl\" type for greater visibility, and the lunar surface EVA suit would include a water-cooled undergarment.",
+        "question": "What type of undergarment, if any, was included into the Apollo spacesuit?",
+        "answers": {
+            "text": [
+                "a water-cooled undergarment",
+                "water-cooled undergarment.",
+                "water-cooled",
+                "water-cooled undergarment",
+                "water-cooled undergarment."
+            ],
+            "answer_start": [
+                571,
+                573,
+                573,
+                573,
+                573
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "context": "Deke Slayton, the grounded Mercury astronaut who became Director of Flight Crew Operations for the Gemini and Apollo programs, selected the first Apollo crew in January 1966, with Grissom as Command Pilot, White as Senior Pilot, and rookie Donn F. Eisele as Pilot. But Eisele dislocated his shoulder twice aboard the KC135 weightlessness training aircraft, and had to undergo surgery on January 27. Slayton replaced him with Chaffee. NASA announced the final crew selection for AS-204 on March 21, 1966, with the backup crew consisting of Gemini veterans James McDivitt and David Scott, with rookie Russell L. \"Rusty\" Schweickart. Mercury/Gemini veteran Wally Schirra, Eisele, and rookie Walter Cunningham were announced on September 29 as the prime crew for AS-205.",
+        "question": "Who selected the first Apollo crew?",
+        "answers": {
+            "text": [
+                "Deke Slayton",
+                "Deke Slayton,",
+                "Deke Slayton",
+                "Deke Slayton",
+                "Deke Slayton"
+            ],
+            "answer_start": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "context": "Deke Slayton, the grounded Mercury astronaut who became Director of Flight Crew Operations for the Gemini and Apollo programs, selected the first Apollo crew in January 1966, with Grissom as Command Pilot, White as Senior Pilot, and rookie Donn F. Eisele as Pilot. But Eisele dislocated his shoulder twice aboard the KC135 weightlessness training aircraft, and had to undergo surgery on January 27. Slayton replaced him with Chaffee. NASA announced the final crew selection for AS-204 on March 21, 1966, with the backup crew consisting of Gemini veterans James McDivitt and David Scott, with rookie Russell L. \"Rusty\" Schweickart. Mercury/Gemini veteran Wally Schirra, Eisele, and rookie Walter Cunningham were announced on September 29 as the prime crew for AS-205.",
+        "question": "What year did Slayton select the first Apollo crew?",
+        "answers": {
+            "text": [
+                "1966",
+                "1966",
+                "1966",
+                "January 1966",
+                "1966"
+            ],
+            "answer_start": [
+                169,
+                498,
+                498,
+                161,
+                169
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "context": "Deke Slayton, the grounded Mercury astronaut who became Director of Flight Crew Operations for the Gemini and Apollo programs, selected the first Apollo crew in January 1966, with Grissom as Command Pilot, White as Senior Pilot, and rookie Donn F. Eisele as Pilot. But Eisele dislocated his shoulder twice aboard the KC135 weightlessness training aircraft, and had to undergo surgery on January 27. Slayton replaced him with Chaffee. NASA announced the final crew selection for AS-204 on March 21, 1966, with the backup crew consisting of Gemini veterans James McDivitt and David Scott, with rookie Russell L. \"Rusty\" Schweickart. Mercury/Gemini veteran Wally Schirra, Eisele, and rookie Walter Cunningham were announced on September 29 as the prime crew for AS-205.",
+        "question": "Who was the original pilot for the first Apollo mission?",
+        "answers": {
+            "text": [
+                "Donn F. Eisele",
+                "Slayton",
+                "Donn F. Eisele",
+                "Grissom",
+                "Eisele"
+            ],
+            "answer_start": [
+                240,
+                399,
+                240,
+                180,
+                269
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "context": "Grissom, White, and Chaffee decided to name their flight Apollo 1 as a motivational focus on the first manned flight. They trained and conducted tests of their spacecraft at North American, and in the altitude chamber at the Kennedy Space Center. A \"plugs-out\" test was planned for January, which would simulate a launch countdown on LC-34 with the spacecraft transferring from pad-supplied to internal power. If successful, this would be followed by a more rigorous countdown simulation test closer to the February 21 launch, with both spacecraft and launch vehicle fueled.",
+        "question": "Where did Apollo 1's crew conduct tests at Kennedy Space Center?",
+        "answers": {
+            "text": [
+                "altitude chamber",
+                "altitude chamber",
+                "altitude chamber",
+                "altitude chamber"
+            ],
+            "answer_start": [
+                201,
+                201,
+                201,
+                201
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "context": "Grissom, White, and Chaffee decided to name their flight Apollo 1 as a motivational focus on the first manned flight. They trained and conducted tests of their spacecraft at North American, and in the altitude chamber at the Kennedy Space Center. A \"plugs-out\" test was planned for January, which would simulate a launch countdown on LC-34 with the spacecraft transferring from pad-supplied to internal power. If successful, this would be followed by a more rigorous countdown simulation test closer to the February 21 launch, with both spacecraft and launch vehicle fueled.",
+        "question": "Who was the main crew of Apollo 1, of which they named themselves?",
+        "answers": {
+            "text": [
+                "Grissom, White, and Chaffee",
+                "Apollo 1",
+                "Grissom, White, and Chaffee",
+                "Grissom, White, and Chaffee"
+            ],
+            "answer_start": [
+                0,
+                57,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "context": "Grissom, White, and Chaffee decided to name their flight Apollo 1 as a motivational focus on the first manned flight. They trained and conducted tests of their spacecraft at North American, and in the altitude chamber at the Kennedy Space Center. A \"plugs-out\" test was planned for January, which would simulate a launch countdown on LC-34 with the spacecraft transferring from pad-supplied to internal power. If successful, this would be followed by a more rigorous countdown simulation test closer to the February 21 launch, with both spacecraft and launch vehicle fueled.",
+        "question": "What other location did Apollo 1 test at besides Kennedy Space Center?",
+        "answers": {
+            "text": [
+                "North American",
+                "North American",
+                "North American",
+                "North American"
+            ],
+            "answer_start": [
+                174,
+                174,
+                174,
+                174
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "context": "NASA immediately convened an accident review board, overseen by both houses of Congress. While the determination of responsibility for the accident was complex, the review board concluded that \"deficiencies existed in Command Module design, workmanship and quality control.\" At the insistence of NASA Administrator Webb, North American removed Harrison Storms as Command Module program manager. Webb also reassigned Apollo Spacecraft Program Office (ASPO) Manager Joseph Francis Shea, replacing him with George Low.",
+        "question": "What was found to be at fault for the fire in the cabin on Apollo 1 regarding the CM design?",
+        "answers": {
+            "text": [
+                "deficiencies",
+                "workmanship and quality control",
+                "deficiencies existed in Command Module design, workmanship and quality control",
+                "\"deficiencies existed in Command Module design, workmanship and quality control.\""
+            ],
+            "answer_start": [
+                194,
+                241,
+                194,
+                193
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "context": "The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.",
+        "question": "What was the technical name of the first unmanned Saturn V flight, Apollo 4?",
+        "answers": {
+            "text": [
+                "AS-501",
+                "AS-501",
+                "AS-501",
+                "AS-501",
+                "AS-501"
+            ],
+            "answer_start": [
+                110,
+                110,
+                110,
+                110,
+                110
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "context": "The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.",
+        "question": "What was one thing that was specifically tested on the Apollo 4 test launch regarding the CM?",
+        "answers": {
+            "text": [
+                "heat shield",
+                "Service Module engine",
+                "heat shield",
+                "capability of the Command Module's heat shield to survive a trans-lunar reentry",
+                "capability of the Command Module's heat shield to survive a trans-lunar reentry"
+            ],
+            "answer_start": [
+                248,
+                323,
+                248,
+                213,
+                213
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "context": "The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.",
+        "question": "When was Apollo 6, or AS-502, tested?",
+        "answers": {
+            "text": [
+                "April 4, 1968",
+                "1968",
+                "April 4, 1968",
+                "April 4, 1968",
+                "April 4, 1968"
+            ],
+            "answer_start": [
+                450,
+                459,
+                450,
+                450,
+                450
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "context": "The delay in the CSM caused by the fire enabled NASA to catch up on man-rating the LM and Saturn V. Apollo 4 (AS-501) was the first unmanned flight of the Saturn V, carrying a Block I CSM on November 9, 1967. The capability of the Command Module's heat shield to survive a trans-lunar reentry was demonstrated by using the Service Module engine to ram it into the atmosphere at higher than the usual Earth-orbital reentry speed. This was followed on April 4, 1968, by Apollo 6 (AS-502) which carried a CSM and a LM Test Article as ballast. The intent of this mission was to achieve trans-lunar injection, followed closely by a simulated direct-return abort, using the Service Module engine to achieve another high-speed reentry. The Saturn V experienced pogo oscillation, a problem caused by non-steady engine combustion, which damaged fuel lines in the second and third stages. Two S-II engines shut down prematurely, but the remaining engines were able to compensate. The damage to the third stage engine was more severe, preventing it from restarting for trans-lunar injection. Mission controllers were able to use the Service Module engine to essentially repeat the flight profile of Apollo 4. Based on the good performance of Apollo 6 and identification of satisfactory fixes to the Apollo 6 problems, NASA declared the Saturn V ready to fly men, cancelling a third unmanned test.",
+        "question": "What was cancelled by NASA after the Apollo 6 testing, after deeming the Saturn V ready to hold men?",
+        "answers": {
+            "text": [
+                "third unmanned test",
+                "Apollo 6",
+                "third unmanned test",
+                "cancelling a third unmanned test",
+                "third unmanned test."
+            ],
+            "answer_start": [
+                1365,
+                1288,
+                1365,
+                1352,
+                1365
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "context": "Apollo 5 (AS-204) was the first unmanned test flight of LM in Earth orbit, launched from pad 37 on January 22, 1968, by the Saturn IB that would have been used for Apollo 1. The LM engines were successfully test-fired and restarted, despite a computer programming error which cut short the first descent stage firing. The ascent engine was fired in abort mode, known as a \"fire-in-the-hole\" test, where it was lit simultaneously with jettison of the descent stage. Although Grumman wanted a second unmanned test, George Low decided the next LM flight would be manned.",
+        "question": "Which Apollo was the first testing of the LM, unmanned, in Earth's orbit?",
+        "answers": {
+            "text": [
+                "Apollo 5",
+                "Apollo 5",
+                "Apollo 5",
+                "Apollo 5",
+                "Apollo 5"
+            ],
+            "answer_start": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "id": 41,
+        "context": "Apollo 5 (AS-204) was the first unmanned test flight of LM in Earth orbit, launched from pad 37 on January 22, 1968, by the Saturn IB that would have been used for Apollo 1. The LM engines were successfully test-fired and restarted, despite a computer programming error which cut short the first descent stage firing. The ascent engine was fired in abort mode, known as a \"fire-in-the-hole\" test, where it was lit simultaneously with jettison of the descent stage. Although Grumman wanted a second unmanned test, George Low decided the next LM flight would be manned.",
+        "question": "From what pad was Apollo 5 launched from?",
+        "answers": {
+            "text": [
+                "pad 37",
+                "37",
+                "37",
+                "pad 37",
+                "pad 37"
+            ],
+            "answer_start": [
+                89,
+                93,
+                93,
+                89,
+                89
+            ]
+        }
+    },
+    {
+        "id": 42,
+        "context": "Apollo 5 (AS-204) was the first unmanned test flight of LM in Earth orbit, launched from pad 37 on January 22, 1968, by the Saturn IB that would have been used for Apollo 1. The LM engines were successfully test-fired and restarted, despite a computer programming error which cut short the first descent stage firing. The ascent engine was fired in abort mode, known as a \"fire-in-the-hole\" test, where it was lit simultaneously with jettison of the descent stage. Although Grumman wanted a second unmanned test, George Low decided the next LM flight would be manned.",
+        "question": "Was the testing of the LM during Apollo 5 a failure or a success?",
+        "answers": {
+            "text": [
+                "success",
+                "success",
+                "LM engines were successfully test-fired and restarted",
+                "successfully"
+            ],
+            "answer_start": [
+                194,
+                194,
+                178,
+                194
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "context": "Apollo 8 was planned to be the D mission in December 1968, crewed by McDivitt, Scott and Schweickart, launched on a Saturn V instead of two Saturn IBs. In the summer it had become clear that the LM would not be ready in time. Rather than waste the Saturn V on another simple Earth-orbiting mission, ASPO Manager George Low suggested the bold step of sending Apollo 8 to orbit the Moon instead, deferring the D mission to the next mission in March 1969, and eliminating the E mission. This would keep the program on track. The Soviet Union had sent animals around the Moon on September 15, 1968, aboard Zond 5, and it was believed they might soon repeat the feat with human cosmonauts. The decision was not announced publicly until successful completion of Apollo 7. Gemini veterans Frank Borman and James Lovell, and rookie William Anders captured the world's attention by making 10 lunar orbits in 20 hours, transmitting television pictures of the lunar surface on Christmas Eve, and returning safely to Earth.",
+        "question": "What type of Saturn was originally going to be used for Apollo 8?",
+        "answers": {
+            "text": [
+                "two Saturn IBs",
+                "V",
+                "two Saturn IBs",
+                "Saturn V",
+                "two Saturn IBs"
+            ],
+            "answer_start": [
+                136,
+                123,
+                136,
+                116,
+                136
+            ]
+        }
+    },
+    {
+        "id": 44,
+        "context": "Apollo 8 was planned to be the D mission in December 1968, crewed by McDivitt, Scott and Schweickart, launched on a Saturn V instead of two Saturn IBs. In the summer it had become clear that the LM would not be ready in time. Rather than waste the Saturn V on another simple Earth-orbiting mission, ASPO Manager George Low suggested the bold step of sending Apollo 8 to orbit the Moon instead, deferring the D mission to the next mission in March 1969, and eliminating the E mission. This would keep the program on track. The Soviet Union had sent animals around the Moon on September 15, 1968, aboard Zond 5, and it was believed they might soon repeat the feat with human cosmonauts. The decision was not announced publicly until successful completion of Apollo 7. Gemini veterans Frank Borman and James Lovell, and rookie William Anders captured the world's attention by making 10 lunar orbits in 20 hours, transmitting television pictures of the lunar surface on Christmas Eve, and returning safely to Earth.",
+        "question": "What did Low suggest using Apollo 8 for instead of simply orbiting the Earth's surface?",
+        "answers": {
+            "text": [
+                "orbit the Moon",
+                "orbit the Moon",
+                "to orbit the Moon",
+                "orbit the Moon",
+                "orbit the Moon"
+            ],
+            "answer_start": [
+                370,
+                370,
+                367,
+                370,
+                370
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "context": "The G mission was achieved on Apollo 11 in July 1969 by an all-Gemini veteran crew consisting of Neil Armstrong, Michael Collins and Buzz Aldrin. Armstrong and Aldrin performed the first landing at the Sea of Tranquility at 20:17:40 UTC on July 20, 1969. They spent a total of 21 hours, 36 minutes on the surface, and spent 2 hours, 31 minutes outside the spacecraft, walking on the surface, taking photographs, collecting material samples, and deploying automated scientific instruments, while continuously sending black-and-white television back to Earth. The astronauts returned safely on July 24.",
+        "question": "From what project did the Apollo 11 crew consist entirely of?",
+        "answers": {
+            "text": [
+                "Gemini",
+                "all-Gemini veteran",
+                "Gemini",
+                "all-Gemini veteran crew",
+                "Gemini"
+            ],
+            "answer_start": [
+                63,
+                59,
+                63,
+                59,
+                63
+            ]
+        }
+    },
+    {
+        "id": 46,
+        "context": "The G mission was achieved on Apollo 11 in July 1969 by an all-Gemini veteran crew consisting of Neil Armstrong, Michael Collins and Buzz Aldrin. Armstrong and Aldrin performed the first landing at the Sea of Tranquility at 20:17:40 UTC on July 20, 1969. They spent a total of 21 hours, 36 minutes on the surface, and spent 2 hours, 31 minutes outside the spacecraft, walking on the surface, taking photographs, collecting material samples, and deploying automated scientific instruments, while continuously sending black-and-white television back to Earth. The astronauts returned safely on July 24.",
+        "question": "In what month and year did the Apollo 11 mission occur?",
+        "answers": {
+            "text": [
+                "July 1969",
+                "July",
+                "July 1969",
+                "July 20, 1969",
+                "July 1969"
+            ],
+            "answer_start": [
+                43,
+                43,
+                43,
+                240,
+                43
+            ]
+        }
+    },
+    {
+        "id": 47,
+        "context": "The G mission was achieved on Apollo 11 in July 1969 by an all-Gemini veteran crew consisting of Neil Armstrong, Michael Collins and Buzz Aldrin. Armstrong and Aldrin performed the first landing at the Sea of Tranquility at 20:17:40 UTC on July 20, 1969. They spent a total of 21 hours, 36 minutes on the surface, and spent 2 hours, 31 minutes outside the spacecraft, walking on the surface, taking photographs, collecting material samples, and deploying automated scientific instruments, while continuously sending black-and-white television back to Earth. The astronauts returned safely on July 24.",
+        "question": "Who were the astronauts aboard the Apollo 11 mission?",
+        "answers": {
+            "text": [
+                "Neil Armstrong, Michael Collins and Buzz Aldrin",
+                "Neil Armstrong, Michael Collins and Buzz Aldrin",
+                "Neil Armstrong, Michael Collins and Buzz Aldrin",
+                "Neil Armstrong, Michael Collins and Buzz Aldrin",
+                "Neil Armstrong, Michael Collins and Buzz Aldrin."
+            ],
+            "answer_start": [
+                97,
+                97,
+                97,
+                97,
+                97
+            ]
+        }
+    },
+    {
+        "id": 48,
+        "context": "The G mission was achieved on Apollo 11 in July 1969 by an all-Gemini veteran crew consisting of Neil Armstrong, Michael Collins and Buzz Aldrin. Armstrong and Aldrin performed the first landing at the Sea of Tranquility at 20:17:40 UTC on July 20, 1969. They spent a total of 21 hours, 36 minutes on the surface, and spent 2 hours, 31 minutes outside the spacecraft, walking on the surface, taking photographs, collecting material samples, and deploying automated scientific instruments, while continuously sending black-and-white television back to Earth. The astronauts returned safely on July 24.",
+        "question": "What day did the Apollo 11 crew return to Earth?",
+        "answers": {
+            "text": [
+                "July 24",
+                "July 24.",
+                "July 24",
+                "July 24",
+                "July 24"
+            ],
+            "answer_start": [
+                592,
+                592,
+                592,
+                592,
+                592
+            ]
+        }
+    },
+    {
+        "id": 49,
+        "context": "In November 1969, Gemini veteran Charles \"Pete\" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967 on the Ocean of Storms. The Command Module Pilot was Gemini veteran Richard F. Gordon, Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. They made two EVAs totaling 7 hours and 45 minutes. On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.",
+        "question": "Which lunar probe was near the Apollo 12 crew's landing site?",
+        "answers": {
+            "text": [
+                "Surveyor 3",
+                "Surveyor 3",
+                "Surveyor 3",
+                "Surveyor 3",
+                "Surveyor 3"
+            ],
+            "answer_start": [
+                148,
+                148,
+                148,
+                148,
+                148
+            ]
+        }
+    },
+    {
+        "id": 50,
+        "context": "In November 1969, Gemini veteran Charles \"Pete\" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967 on the Ocean of Storms. The Command Module Pilot was Gemini veteran Richard F. Gordon, Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. They made two EVAs totaling 7 hours and 45 minutes. On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.",
+        "question": "What did the crew of Apollo 12 do with parts of the Surveyor they landed near after photographing them?",
+        "answers": {
+            "text": [
+                "returned to Earth",
+                "color television camera",
+                "returned to Earth",
+                "removed some parts",
+                "returned to Earth."
+            ],
+            "answer_start": [
+                575,
+                351,
+                575,
+                545,
+                575
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "context": "In November 1969, Gemini veteran Charles \"Pete\" Conrad and rookie Alan L. Bean made a precision landing on Apollo 12 within walking distance of the Surveyor 3 unmanned lunar probe, which had landed in April 1967 on the Ocean of Storms. The Command Module Pilot was Gemini veteran Richard F. Gordon, Jr. Conrad and Bean carried the first lunar surface color television camera, but it was damaged when accidentally pointed into the Sun. They made two EVAs totaling 7 hours and 45 minutes. On one, they walked to the Surveyor, photographed it, and removed some parts which they returned to Earth.",
+        "question": "What damaged the color TV camera that Apollo 12 had taken into space?",
+        "answers": {
+            "text": [
+                "the Sun",
+                "Sun",
+                "the Sun",
+                "the Sun",
+                "pointed into the Sun."
+            ],
+            "answer_start": [
+                426,
+                430,
+                426,
+                426,
+                413
+            ]
+        }
+    },
+    {
+        "id": 52,
+        "context": "The contracted batch of 15 Saturn Vs were enough for lunar landing missions through Apollo 20. NASA publicized a preliminary list of eight more planned landing sites, with plans to increase the mass of the CSM and LM for the last five missions, along with the payload capacity of the Saturn V. These final missions would combine the I and J types in the 1967 list, allowing the CMP to operate a package of lunar orbital sensors and cameras while his companions were on the surface, and allowing them to stay on the Moon for over three days. These missions would also carry the Lunar Roving Vehicle (LRV) increasing the exploration area and allowing televised liftoff of the LM. Also, the Block II spacesuit was revised for the extended missions to allow greater flexibility and visibility for driving the LRV.",
+        "question": "What would the latter Apollo missions carry to the moon to increase exploration?",
+        "answers": {
+            "text": [
+                "Lunar Roving Vehicle (LRV)",
+                "payload capacity",
+                "Lunar Roving Vehicle",
+                "lunar orbital sensors and cameras",
+                "Lunar Roving Vehicle"
+            ],
+            "answer_start": [
+                577,
+                260,
+                577,
+                406,
+                577
+            ]
+        }
+    },
+    {
+        "id": 53,
+        "context": "The contracted batch of 15 Saturn Vs were enough for lunar landing missions through Apollo 20. NASA publicized a preliminary list of eight more planned landing sites, with plans to increase the mass of the CSM and LM for the last five missions, along with the payload capacity of the Saturn V. These final missions would combine the I and J types in the 1967 list, allowing the CMP to operate a package of lunar orbital sensors and cameras while his companions were on the surface, and allowing them to stay on the Moon for over three days. These missions would also carry the Lunar Roving Vehicle (LRV) increasing the exploration area and allowing televised liftoff of the LM. Also, the Block II spacesuit was revised for the extended missions to allow greater flexibility and visibility for driving the LRV.",
+        "question": "How many more landing sites for the Apollo missions did NASA have planned?",
+        "answers": {
+            "text": [
+                "eight",
+                "five",
+                "five",
+                "eight",
+                "eight"
+            ],
+            "answer_start": [
+                133,
+                230,
+                230,
+                133,
+                133
+            ]
+        }
+    },
+    {
+        "id": 54,
+        "context": "The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a \"life boat\" to return to Earth. Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.",
+        "question": "What happened to the Apollo 13 crew to force them to use the LM as a \"life boat\" as it had been designed?",
+        "answers": {
+            "text": [
+                "liquid oxygen tank exploded",
+                "liquid oxygen tank exploded,",
+                "liquid oxygen tank exploded",
+                "liquid oxygen tank exploded",
+                "liquid oxygen tank exploded, disabling the Service Module"
+            ],
+            "answer_start": [
+                263,
+                263,
+                263,
+                263,
+                263
+            ]
+        }
+    },
+    {
+        "id": 55,
+        "context": "The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a \"life boat\" to return to Earth. Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.",
+        "question": "Along with one veteran, what other two types of crew could be included in lieu of veterans after the successful landings of Apollo 11 and 12?",
+        "answers": {
+            "text": [
+                "rookies",
+                "Jack Swigert, and Fred Haise",
+                "two rookies",
+                "rookies"
+            ],
+            "answer_start": [
+                127,
+                163,
+                123,
+                127
+            ]
+        }
+    },
+    {
+        "id": 56,
+        "context": "The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a \"life boat\" to return to Earth. Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.",
+        "question": "What happened to the Apollo program in for the rest of 1970 after the incident regarding Apollo 13?",
+        "answers": {
+            "text": [
+                "grounded",
+                "oxygen tank was redesigned",
+                "grounded",
+                "Apollo was grounded",
+                "grounded"
+            ],
+            "answer_start": [
+                634,
+                686,
+                634,
+                623,
+                634
+            ]
+        }
+    },
+    {
+        "id": 57,
+        "context": "The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a \"life boat\" to return to Earth. Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.",
+        "question": "What was redesigned during the Apollo program being grounded during 1970?",
+        "answers": {
+            "text": [
+                "oxygen tank",
+                "oxygen tank",
+                "oxygen tank",
+                "oxygen tank",
+                "oxygen tank"
+            ],
+            "answer_start": [
+                686,
+                686,
+                686,
+                686,
+                686
+            ]
+        }
+    },
+    {
+        "id": 58,
+        "context": "The success of the first two landings allowed the remaining missions to be crewed with a single veteran as Commander, with two rookies. Apollo 13 launched Lovell, Jack Swigert, and Fred Haise in April 1970, headed for the Fra Mauro formation. But two days out, a liquid oxygen tank exploded, disabling the Service Module and forcing the crew to use the LM as a \"life boat\" to return to Earth. Another NASA review board was convened to determine the cause, which turned out to be a combination of damage of the tank in the factory, and a subcontractor not making a tank component according to updated design specifications. Apollo was grounded again, for the remainder of 1970 while the oxygen tank was redesigned and an extra one was added.",
+        "question": "What month and year was Apollo 13 launched?",
+        "answers": {
+            "text": [
+                "April 1970",
+                "April",
+                "April 1970",
+                "April 1970",
+                "April 1970,"
+            ],
+            "answer_start": [
+                195,
+                195,
+                195,
+                195,
+                195
+            ]
+        }
+    },
+    {
+        "id": 59,
+        "context": "About the time of the first landing in 1969, it was decided to use an existing Saturn V to launch the Skylab orbital laboratory pre-built on the ground, replacing the original plan to construct it in orbit from several Saturn IB launches; this eliminated Apollo 20. NASA's yearly budget also began to shrink in light of the successful landing, and NASA also had to make funds available for the development of the upcoming Space Shuttle. By 1971, the decision was made to also cancel missions 18 and 19. The two unused Saturn Vs became museum exhibits at the John F. Kennedy Space Center on Merritt Island, Florida, George C. Marshall Space Center in Huntsville, Alabama, Michoud Assembly Facility in New Orleans, Louisiana, and Lyndon B. Johnson Space Center in Houston, Texas.",
+        "question": "What Apollo mission was first cancelled due to not being needed to build the Skylab in space, as it was pre-built on the ground?",
+        "answers": {
+            "text": [
+                "Apollo 20",
+                "Saturn V to",
+                "Apollo 20",
+                "Apollo 20",
+                "Apollo 20."
+            ],
+            "answer_start": [
+                255,
+                79,
+                255,
+                255,
+                255
+            ]
+        }
+    },
+    {
+        "id": 60,
+        "context": "About the time of the first landing in 1969, it was decided to use an existing Saturn V to launch the Skylab orbital laboratory pre-built on the ground, replacing the original plan to construct it in orbit from several Saturn IB launches; this eliminated Apollo 20. NASA's yearly budget also began to shrink in light of the successful landing, and NASA also had to make funds available for the development of the upcoming Space Shuttle. By 1971, the decision was made to also cancel missions 18 and 19. The two unused Saturn Vs became museum exhibits at the John F. Kennedy Space Center on Merritt Island, Florida, George C. Marshall Space Center in Huntsville, Alabama, Michoud Assembly Facility in New Orleans, Louisiana, and Lyndon B. Johnson Space Center in Houston, Texas.",
+        "question": "After Apollo missions 18 and 19 were cancelled, what happened to the Saturn Vs that were never used?",
+        "answers": {
+            "text": [
+                "museum exhibits",
+                "museum exhibits",
+                "museum exhibits",
+                "museum exhibits",
+                "museum exhibits"
+            ],
+            "answer_start": [
+                535,
+                535,
+                535,
+                535,
+                535
+            ]
+        }
+    },
+    {
+        "id": 61,
+        "context": "About the time of the first landing in 1969, it was decided to use an existing Saturn V to launch the Skylab orbital laboratory pre-built on the ground, replacing the original plan to construct it in orbit from several Saturn IB launches; this eliminated Apollo 20. NASA's yearly budget also began to shrink in light of the successful landing, and NASA also had to make funds available for the development of the upcoming Space Shuttle. By 1971, the decision was made to also cancel missions 18 and 19. The two unused Saturn Vs became museum exhibits at the John F. Kennedy Space Center on Merritt Island, Florida, George C. Marshall Space Center in Huntsville, Alabama, Michoud Assembly Facility in New Orleans, Louisiana, and Lyndon B. Johnson Space Center in Houston, Texas.",
+        "question": "What year was the decision made to cancel Apollo missions 18 and 19?",
+        "answers": {
+            "text": [
+                "1971",
+                "1971",
+                "1971",
+                "1971",
+                "1971"
+            ],
+            "answer_start": [
+                440,
+                440,
+                440,
+                440,
+                440
+            ]
+        }
+    },
+    {
+        "id": 62,
+        "context": "The rocks collected from the Moon are extremely old compared to rocks found on Earth, as measured by radiometric dating techniques. They range in age from about 3.2 billion years for the basaltic samples derived from the lunar maria, to about 4.6 billion years for samples derived from the highlands crust. As such, they represent samples from a very early period in the development of the Solar System, that are largely absent on Earth. One important rock found during the Apollo Program is dubbed the Genesis Rock, retrieved by astronauts David Scott and James Irwin during the Apollo 15 mission. This anorthosite rock is composed almost exclusively of the calcium-rich feldspar mineral anorthite, and is believed to be representative of the highland crust. A geochemical component called KREEP was discovered, which has no known terrestrial counterpart. KREEP and the anorthositic samples have been used to infer that the outer portion of the Moon was once completely molten (see lunar magma ocean).",
+        "question": "What was the name of the rock found during the Apollo 15 mission that KREEP was discovered in?",
+        "answers": {
+            "text": [
+                "Genesis Rock",
+                "Genesis",
+                "Genesis Rock",
+                "Genesis Rock",
+                "anorthosite"
+            ],
+            "answer_start": [
+                503,
+                503,
+                503,
+                503,
+                604
+            ]
+        }
+    },
+    {
+        "id": 63,
+        "context": "Almost all the rocks show evidence of impact process effects. Many samples appear to be pitted with micrometeoroid impact craters, which is never seen on Earth rocks, due to the thick atmosphere. Many show signs of being subjected to high pressure shock waves that are generated during impact events. Some of the returned samples are of impact melt (materials melted near an impact crater.) All samples returned from the Moon are highly brecciated as a result of being subjected to multiple impact events.",
+        "question": "As the moon has no atmosphere, what is prevalant in many moon rock samples brought back from Apollo missions?",
+        "answers": {
+            "text": [
+                "micrometeoroid impact craters",
+                "micrometeoroid impact craters",
+                "micrometeoroid impact craters",
+                "micrometeoroid impact craters",
+                "micrometeoroid impact craters"
+            ],
+            "answer_start": [
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        }
+    },
+    {
+        "id": 64,
+        "context": "In 2009, NASA held a symposium on project costs which presented an estimate of the Apollo program costs in 2005 dollars as roughly $170 billion. This included all research and development costs; the procurement of 15 Saturn V rockets, 16 Command/Service Modules, 12 Lunar Modules, plus program support and management costs; construction expenses for facilities and their upgrading, and costs for flight operations. This was based on a Congressional Budget Office report, A Budgetary Analysis of NASA's New Vision for Space, September 2004. The Space Review estimated in 2010 the cost of Apollo from 1959 to 1973 as $20.4 billion, or $109 billion in 2010 dollars.",
+        "question": "How much was NASA's procured spending on the Apollo project estimated to be at in 2005 after inflation?",
+        "answers": {
+            "text": [
+                "$170 billion",
+                "170 billion",
+                "170 billion",
+                "$170 billion",
+                "roughly $170 billion."
+            ],
+            "answer_start": [
+                131,
+                132,
+                132,
+                131,
+                123
+            ]
+        }
+    },
+    {
+        "id": 65,
+        "context": "In 2009, NASA held a symposium on project costs which presented an estimate of the Apollo program costs in 2005 dollars as roughly $170 billion. This included all research and development costs; the procurement of 15 Saturn V rockets, 16 Command/Service Modules, 12 Lunar Modules, plus program support and management costs; construction expenses for facilities and their upgrading, and costs for flight operations. This was based on a Congressional Budget Office report, A Budgetary Analysis of NASA's New Vision for Space, September 2004. The Space Review estimated in 2010 the cost of Apollo from 1959 to 1973 as $20.4 billion, or $109 billion in 2010 dollars.",
+        "question": "How many Saturn V rockets were produced by NASA during the Apollo project?",
+        "answers": {
+            "text": [
+                "15",
+                "15",
+                "15",
+                "15 Saturn V rockets",
+                "15"
+            ],
+            "answer_start": [
+                214,
+                214,
+                214,
+                214,
+                214
+            ]
+        }
+    },
+    {
+        "id": 66,
+        "context": "In 2009, NASA held a symposium on project costs which presented an estimate of the Apollo program costs in 2005 dollars as roughly $170 billion. This included all research and development costs; the procurement of 15 Saturn V rockets, 16 Command/Service Modules, 12 Lunar Modules, plus program support and management costs; construction expenses for facilities and their upgrading, and costs for flight operations. This was based on a Congressional Budget Office report, A Budgetary Analysis of NASA's New Vision for Space, September 2004. The Space Review estimated in 2010 the cost of Apollo from 1959 to 1973 as $20.4 billion, or $109 billion in 2010 dollars.",
+        "question": "How much was the Apollo project estimated to have cost from 1959 to 1973, the length of the program?",
+        "answers": {
+            "text": [
+                "$20.4 billion",
+                "20.4 billion,",
+                "20.4 billion",
+                "$20.4 billion",
+                "$20.4 billion"
+            ],
+            "answer_start": [
+                615,
+                616,
+                616,
+                615,
+                615
+            ]
+        }
+    },
+    {
+        "id": 67,
+        "context": "In 2008, Japan Aerospace Exploration Agency's SELENE probe observed evidence of the halo surrounding the Apollo 15 Lunar Module blast crater while orbiting above the lunar surface. In 2009, NASA's robotic Lunar Reconnaissance Orbiter, while orbiting 50 kilometers (31 mi) above the Moon, began photographing the remnants of the Apollo program left on the lunar surface, and photographed each site where manned Apollo flights landed. All of the U. S. flags left on the Moon during the Apollo missions were found to still be standing, with the exception of the one left during the Apollo 11 mission, which was blown over during that mission's lift-off from the lunar surface and return to the mission Command Module in lunar orbit; the degree to which these flags retain their original colors remains unknown.",
+        "question": "Which NASA orbiter photographed evidence of each site on the moon that a manned Apollo mission landing occurred?",
+        "answers": {
+            "text": [
+                "Lunar Reconnaissance Orbiter",
+                "Japan Aerospace Exploration Agency's SELENE",
+                "Reconnaissance Orbiter",
+                "robotic Lunar Reconnaissance Orbiter",
+                "Lunar Reconnaissance Orbiter"
+            ],
+            "answer_start": [
+                205,
+                9,
+                211,
+                197,
+                205
+            ]
+        }
+    },
+    {
+        "id": 68,
+        "context": "In 2008, Japan Aerospace Exploration Agency's SELENE probe observed evidence of the halo surrounding the Apollo 15 Lunar Module blast crater while orbiting above the lunar surface. In 2009, NASA's robotic Lunar Reconnaissance Orbiter, while orbiting 50 kilometers (31 mi) above the Moon, began photographing the remnants of the Apollo program left on the lunar surface, and photographed each site where manned Apollo flights landed. All of the U. S. flags left on the Moon during the Apollo missions were found to still be standing, with the exception of the one left during the Apollo 11 mission, which was blown over during that mission's lift-off from the lunar surface and return to the mission Command Module in lunar orbit; the degree to which these flags retain their original colors remains unknown.",
+        "question": "The flags on the moon left by the U.S. manned Apollo missions are all still standing save for which mission's flag?",
+        "answers": {
+            "text": [
+                "Apollo 11",
+                "Apollo 11",
+                "Apollo 11",
+                "Apollo 11"
+            ],
+            "answer_start": [
+                579,
+                579,
+                579,
+                579
+            ]
+        }
+    },
+    {
+        "id": 69,
+        "context": "The crew of Apollo 8 sent the first live televised pictures of the Earth and the Moon back to Earth, and read from the creation story in the Book of Genesis, on Christmas Eve, 1968. An estimated one-quarter of the population of the world saw\u2014either live or delayed\u2014the Christmas Eve transmission during the ninth orbit of the Moon. The mission and Christmas provided an inspiring end to 1968, which had been a troubled year for the US, marked by Vietnam War protests, race riots, and the assassinations of civil rights leader Martin Luther King, Jr., and Senator Robert F. Kennedy.",
+        "question": "From what Bible book did the crew of Apollo 8 read from during this stream of images?",
+        "answers": {
+            "text": [
+                "Book of Genesis",
+                "Genesis",
+                "Genesis",
+                "Book of Genesis",
+                "Genesis"
+            ],
+            "answer_start": [
+                141,
+                149,
+                149,
+                141,
+                149
+            ]
+        }
+    },
+    {
+        "id": 70,
+        "context": "With a budget of $230,000, the surviving original lunar broadcast data from Apollo 11 was compiled by Nafzger and assigned to Lowry Digital for restoration. The video was processed to remove random noise and camera shake without destroying historical legitimacy. The images were from tapes in Australia, the CBS News archive, and kinescope recordings made at Johnson Space Center. The restored video, remaining in black and white, contains conservative digital enhancements and did not include sound quality improvements.",
+        "question": "Who compiled the original surviving Apollo 11 landing data?",
+        "answers": {
+            "text": [
+                "Nafzger",
+                "Nafzger",
+                "Nafzger",
+                "Nafzger",
+                "Nafzger"
+            ],
+            "answer_start": [
+                102,
+                102,
+                102,
+                102,
+                102
+            ]
+        }
+    },
+    {
+        "id": 71,
+        "context": "In the laboratory, stratigraphers analyze samples of stratigraphic sections that can be returned from the field, such as those from drill cores. Stratigraphers also analyze data from geophysical surveys that show the locations of stratigraphic units in the subsurface. Geophysical data and well logs can be combined to produce a better view of the subsurface, and stratigraphers often use computer programs to do this in three dimensions. Stratigraphers can then use these data to reconstruct ancient processes occurring on the surface of the Earth, interpret past environments, and locate areas for water, coal, and hydrocarbon extraction.",
+        "question": "What type of surveys show the location of stratigraphic units in the subsurface?",
+        "answers": {
+            "text": [
+                "geophysical surveys",
+                "geophysical",
+                "geophysical"
+            ],
+            "answer_start": [
+                183,
+                183,
+                183
+            ]
+        }
+    },
+    {
+        "id": 72,
+        "context": "In the early 1990s the memory of Genghis Khan with the Mongolian national identity has had a powerful revival partly because of his perception during the Mongolian People's Republic period. Genghis Khan became one of the central figures of the national identity. He is looked upon positively by Mongolians for his role in uniting warring tribes. For example, it is not uncommon for Mongolians to refer to their country as \"Genghis Khan's Mongolia\", to themselves as \"Genghis Khan's children\", and to Genghis Khan as the \"father of the Mongols\" especially among the younger generation. However, there is a chasm in the perception of his brutality. Mongolians maintain that the historical records written by non-Mongolians are unfairly biased against Genghis Khan and that his butchery is exaggerated, while his positive role is underrated.",
+        "question": "What recent decade saw brightening of the perception of Genghis Khan in Mongolia?",
+        "answers": {
+            "text": [
+                "1990s",
+                "1990s",
+                "1990s"
+            ],
+            "answer_start": [
+                13,
+                13,
+                13
+            ]
+        }
+    },
+    {
+        "id": 73,
+        "context": "In the early 1990s the memory of Genghis Khan with the Mongolian national identity has had a powerful revival partly because of his perception during the Mongolian People's Republic period. Genghis Khan became one of the central figures of the national identity. He is looked upon positively by Mongolians for his role in uniting warring tribes. For example, it is not uncommon for Mongolians to refer to their country as \"Genghis Khan's Mongolia\", to themselves as \"Genghis Khan's children\", and to Genghis Khan as the \"father of the Mongols\" especially among the younger generation. However, there is a chasm in the perception of his brutality. Mongolians maintain that the historical records written by non-Mongolians are unfairly biased against Genghis Khan and that his butchery is exaggerated, while his positive role is underrated.",
+        "question": "What is the general perception of non-Mongolian histories of Genghis Khan by Mongolians themselves?",
+        "answers": {
+            "text": [
+                "unfairly biased",
+                "unfairly biased",
+                "his positive role is underrated"
+            ],
+            "answer_start": [
+                725,
+                725,
+                806
+            ]
+        }
+    },
+    {
+        "id": 74,
+        "context": "The smaller the economic inequality, the more waste and pollution is created, resulting in many cases, in more environmental degradation. This can be explained by the fact that as the poor people in the society become more wealthy, it increases their yearly carbon emissions. This relation is expressed by the Environmental Kuznets Curve (EKC).[not in citation given] It should be noted here however that in certain cases, with great economic inequality, there is nonetheless not more waste and pollution created as the waste/pollution is cleaned up better afterwards (water treatment, filtering, ...).... Also note that the whole of the increase in environmental degradation is the result of the increase of emissions per person being multiplied by a multiplier. If there were fewer people however, this multiplier would be lower, and thus the amount of environmental degradation would be lower as well. As such, the current high level of population has a large impact on this as well. If (as WWF argued), population levels would start to drop to a sustainable level (1/3 of current levels, so about 2 billion people), human inequality can be addressed/corrected, while still not resulting in an increase of environmental damage.",
+        "question": "When economic inequality is smaller, more waste and pollution is?",
+        "answers": {
+            "text": [
+                "created",
+                "created",
+                "created",
+                "created"
+            ],
+            "answer_start": [
+                69,
+                69,
+                69,
+                69
+            ]
+        }
+    },
+    {
+        "id": 75,
+        "context": "A BBC audience research survey conducted in 1972 found that, by their own definition of violence (\"any act[s] which may cause physical and/or psychological injury, hurt or death to persons, animals or property, whether intentional or accidental\") Doctor Who was the most violent of the drama programmes the corporation produced at the time. The same report found that 3% of the surveyed audience regarded the show as \"very unsuitable\" for family viewing. Responding to the findings of the survey in The Times newspaper, journalist Philip Howard maintained that, \"to compare the violence of Dr Who, sired by a horse-laugh out of a nightmare, with the more realistic violence of other television series, where actors who look like human beings bleed paint that looks like blood, is like comparing Monopoly with the property market in London: both are fantasies, but one is meant to be taken seriously.\"",
+        "question": "Which show was voted most violent of the BBC shows in a 1972 survey?",
+        "answers": {
+            "text": [
+                "Doctor Who",
+                "Doctor Who",
+                "Doctor Who"
+            ],
+            "answer_start": [
+                247,
+                247,
+                247
+            ]
+        }
+    },
+    {
+        "id": 76,
+        "context": "A BBC audience research survey conducted in 1972 found that, by their own definition of violence (\"any act[s] which may cause physical and/or psychological injury, hurt or death to persons, animals or property, whether intentional or accidental\") Doctor Who was the most violent of the drama programmes the corporation produced at the time. The same report found that 3% of the surveyed audience regarded the show as \"very unsuitable\" for family viewing. Responding to the findings of the survey in The Times newspaper, journalist Philip Howard maintained that, \"to compare the violence of Dr Who, sired by a horse-laugh out of a nightmare, with the more realistic violence of other television series, where actors who look like human beings bleed paint that looks like blood, is like comparing Monopoly with the property market in London: both are fantasies, but one is meant to be taken seriously.\"",
+        "question": "How many of the survey respondents considered Doctor Who very unsuitable for family viewing?",
+        "answers": {
+            "text": [
+                "3%",
+                "3%",
+                "3%"
+            ],
+            "answer_start": [
+                368,
+                368,
+                368
+            ]
+        }
+    },
+    {
+        "id": 77,
+        "context": "Kenya\u2019s armed forces, like many government institutions in the country, have been tainted by corruption allegations. Because the operations of the armed forces have been traditionally cloaked by the ubiquitous blanket of \u201cstate security\u201d, the corruption has been less in public view, and thus less subject to public scrutiny and notoriety. This has changed recently. In what are by Kenyan standards unprecedented revelations, in 2010, credible claims of corruption were made with regard to recruitment  and procurement of Armoured Personnel Carriers. Further, the wisdom and prudence of certain decisions of procurement have been publicly questioned.",
+        "question": "Why has the corruption not be in the public view?",
+        "answers": {
+            "text": [
+                "Because the operations of the armed forces have been traditionally cloaked by the ubiquitous blanket of \u201cstate security\u201d",
+                "state security",
+                "state security"
+            ],
+            "answer_start": [
+                117,
+                222,
+                222
+            ]
+        }
+    },
+    {
+        "id": 78,
+        "context": "Until the early 1980s, industry was a major source of water pollution. Although many plants and factories can be found along the Rhine up into Switzerland, it is along the Lower Rhine that the bulk of them are concentrated, as the river passes the major cities of Cologne, D\u00fcsseldorf and Duisburg. Duisburg is the home of Europe's largest inland port and functions as a hub to the sea ports of Rotterdam, Antwerp and Amsterdam. The Ruhr, which joins the Rhine in Duisburg, is nowadays a clean river, thanks to a combination of stricter environmental controls, a transition from heavy industry to light industry and cleanup measures, such as the reforestation of Slag and brownfields. The Ruhr currently provides the region with drinking water. It contributes 70 m3/s (2,500 cu ft/s) to the Rhine. Other rivers in the Ruhr Area, above all, the Emscher, still carry a considerable degree of pollution.",
+        "question": "What contributed to water pollution in the Rhine? ",
+        "answers": {
+            "text": [
+                "plants and factories",
+                "industry",
+                "industry"
+            ],
+            "answer_start": [
+                85,
+                23,
+                23
+            ]
+        }
+    },
+    {
+        "id": 79,
+        "context": "Until the early 1980s, industry was a major source of water pollution. Although many plants and factories can be found along the Rhine up into Switzerland, it is along the Lower Rhine that the bulk of them are concentrated, as the river passes the major cities of Cologne, D\u00fcsseldorf and Duisburg. Duisburg is the home of Europe's largest inland port and functions as a hub to the sea ports of Rotterdam, Antwerp and Amsterdam. The Ruhr, which joins the Rhine in Duisburg, is nowadays a clean river, thanks to a combination of stricter environmental controls, a transition from heavy industry to light industry and cleanup measures, such as the reforestation of Slag and brownfields. The Ruhr currently provides the region with drinking water. It contributes 70 m3/s (2,500 cu ft/s) to the Rhine. Other rivers in the Ruhr Area, above all, the Emscher, still carry a considerable degree of pollution.",
+        "question": "What country has the most factories that pollute the Rhine?",
+        "answers": {
+            "text": [
+                "Switzerland",
+                "Duisburg",
+                "Switzerland"
+            ],
+            "answer_start": [
+                143,
+                288,
+                143
+            ]
+        }
+    },
+    {
+        "id": 80,
+        "context": "The United Methodist Church teaches that pornography is \"about violence, degradation, exploitation, and coercion\" and \"deplore[s] all forms of commercialization, abuse, and exploitation of sex.\" The Sexual Ethics Task Force of The United Methodist Church states that \"Research shows it [pornography] is not an 'innocent activity.' It is harmful and is generally addictive. Persons who are addicted to pornography are physiologically altered, as is their perspective, relationships with parishioners and family, and their perceptions of girls and women.\"",
+        "question": "According to the UMC, persons who are addicted to pornography have altered perceptions of whom?",
+        "answers": {
+            "text": [
+                "girls and women",
+                "relationships with parishioners and family, and their perceptions of girls and women.\"",
+                "girls and women"
+            ],
+            "answer_start": [
+                536,
+                467,
+                536
+            ]
+        }
+    },
+    {
+        "id": 81,
+        "context": "Since forces are perceived as pushes or pulls, this can provide an intuitive understanding for describing forces. As with other physical concepts (e.g. temperature), the intuitive understanding of forces is quantified using precise operational definitions that are consistent with direct observations and compared to a standard measurement scale. Through experimentation, it is determined that laboratory measurements of forces are fully consistent with the conceptual definition of force offered by Newtonian mechanics.",
+        "question": "What does pushing and pulling perceptions provide for describing forces?",
+        "answers": {
+            "text": [
+                "intuitive understanding",
+                "an intuitive understanding",
+                "an intuitive understanding",
+                "intuitive understanding",
+                "an intuitive understanding"
+            ],
+            "answer_start": [
+                67,
+                64,
+                64,
+                67,
+                64
+            ]
+        }
+    }
+]
