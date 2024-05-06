@@ -18,10 +18,10 @@ def calculate_entropy(logits):
 def main():
     max_seq_length = 4096
     base_model_name = "TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T"
-    data_name = "/data/nawrin/Politics_KeyData.txt"
-    new_model_retrained = "/home/nawrin/H_LLM/LLaMA/unlearned_draft2/final_Tinyllama2" #"/home/nawrin/H_LLM/LLaMA/results_modified/checkpoint-40" 
-    new_model_path = "/home/nawrin/H_LLM/LLaMA/unlearned_Tinyllama/unlearned_tiny2" #"/home/nawrin/H_LLM/LLaMA/unlearned_draft2/Final_unlearned_Tinyllama" #/home/nawrin/H_LLM/LLaMA/trained_newdata/checkpoint-11250 #"/home/nawrin/H_LLM/LLaMA/unlearned_draft2/random_save2" #
-    file_path = "Generated_TinyLLAMA"
+    data_name = "/data/nawrin/Politics_KeyData.txt" #data here
+    new_model_path = "/home/nawrin/H_LLM/LLaMA/unlearned_Tinyllama/unlearned_tiny2" #unlearned model here
+    new_model_retrained = "/home/nawrin/H_LLM/LLaMA/unlearned_draft2/final_Tinyllama2" #retrained model here
+    file_path = "Generated_TinyLLAMA" #evaluation file here
     
     # Model
     base_model = AutoModelForCausalLM.from_pretrained(base_model_name,device_map="auto")
