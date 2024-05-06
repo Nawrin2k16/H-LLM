@@ -29,11 +29,10 @@ def combine_models(base_model, new_model, pretrained_model_name):
 
 def main():
     
-    base_model_name = "NousResearch/Llama-2-7b-hf"
-    pretrained_model_name = "/home/nawrin/H_LLM/LLaMA/combined/combined"
-    new_model_path = "/home/nawrin/H_LLM/LLaMA/unlearned_draft2/final_model_10epoch" 
-    data_name = "/data/nawrin/Politics_KeyData.txt"
-    file_path = "Generated_LLAMA" 
+    base_model_name = "NousResearch/Llama-2-7b-hf" 
+    new_model_path = "/home/nawrin/H_LLM/LLaMA/unlearned_draft2/final_model_10epoch" #put fine-tuned model path
+    data_name = "/data/nawrin/Politics_KeyData.txt" #the dataset here
+    file_path = "Generated_LLAMA" #Evaluation result file here
 
     base_model = AutoModelForCausalLM.from_pretrained(base_model_name,device_map="auto")
     base_model.config.use_cache = False
@@ -67,10 +66,7 @@ def main():
     base_model = base_model.to(device)
     new_model = new_model.to(device)
     print(new_model.device.type, base_model.device.type)
-    combined_model = combine_models(base_model, new_model, pretrained_model_name)
     
-    print("Updated  model Evaluation: ")
-    eval_text(combined_model, llama_tokenizer)
 
 if __name__ == "__main__":
     main()
