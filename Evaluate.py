@@ -55,7 +55,7 @@ def generate_text(model, tokenizer, prompt):
 
 
 def evaluate_generated_text(questions, responses, contexts):
-    #Api_key = "dKQJXJ209HQzCu//NzH/L/yTV7xTnuuCdCR1tx0WMSo="
+    #Api_key = "" #your api key here
     os.environ["OPENAI_API_KEY"] = " " # use your api here
     
     evaluators = [
